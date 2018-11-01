@@ -1,0 +1,160 @@
+
+IntelliJ IDEA 插件
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+IntelliJ 插件 Top 10
+		
+		IntelliJ的十大插件？相信每个人都有自己的选择。我们也同样如此。在这里，我们为您带来我们认为的十大IntelliJ插件。
+
+
+	1. Grep Console
+		允许定义一系列的正则表达式，利用它们来对控制台的输出或文件进行测试。每一个表达式匹配的行都会被整行的应用某个样式，或者播放声音。例如，你可以将错误消息设置为以红色的背景来显示。
+		官方网站：https://plugins.jetbrains.com/plugin/7125-grep-console
+		
+	2. JRebel for IntelliJ
+		JRebel是一个提升生产力的工具，它可以帮助开发人员快速的重新加载更改的代码。 它跳过了Java开发中常见的重新构建，重启以及重新部署的循环操作。 JRebel使开发人员能够在相同的时间内完成更多的工作，让开发人员的编码过程变得更加流畅。
+		官方网站：https://plugins.jetbrains.com/plugin/4441-jrebel-for-intellij
+	3. Maven Helper
+		这个一个必须与maven一起工作的插件。它提供了运行/调试当前测试文件的功能。 如果maven-surefire-plugin配置为跳过或排除测试，“verify”目标将会被启用。它还提供了运行/调试当前文件所在模块的快捷操作，以及简化查找和排除冲突依赖关系的方法。
+		官方网站：https://plugins.jetbrains.com/plugin/7179-maven-helper
+	4. BashSupport
+		IntelliJ平台的Bash语言支持插件。支持语法高亮显示，重构方式的重命名，文档查找，检查，快速修复等功能。
+		官方网站：https://plugins.jetbrains.com/plugin/4230-bashsupport
+	5. SQL Query Plugin
+		通过JDBC连接执行SQL语句的工具。它具有语法高亮、一次执行多个SQL语句，高亮显示主键和外键，直接编辑结果等功能。
+		官方网站：https://plugins.jetbrains.com/plugin/228-sql-query-plugin
+	6. IdeaVim
+		基于IntelliJ的Vim仿真插件。IdeaVim支持许多Vim功能，包括normal/insert/visual模式，motion键，删除/更改，标记，寄存器，一些Ex命令，Vim正则表达式，通过〜/ .ideavimrc，宏，窗口命令等进行配置的功能。
+		官方网站：https://plugins.jetbrains.com/plugin/2162-string-manipulation
+	7. String Manipulation
+		提供强大的文本转换操作：
+
+			* 切换样式（camelCase, hyphen-lowercase, HYPHEN-UPPERCASE, snakecase, SCREAMINGSNAKE_CASE, dot.case, words lowercase, Words Capitalized, PascalCase）
+			* 转换为SCREAMINGSNAKECASE (或转换为camelCase)
+			* 转换为 snake_case (或转换为camelCase)
+			* 转换为dot.case (或转换为camelCase)
+			* 转换为hyphen-case (或转换为camelCase)
+			* 转换为hyphen-case (或转换为snake_case)
+			* 转换为camelCase (或转换为Words)
+			* 转换为camelCase (或转换为lowercase words)
+			* 转换为PascalCase (或转换为camelCase)
+			* 选定文本大写
+			* 样式反转
+
+		Un/Escape:
+
+			* Un/Escape 选中的 java 文本
+			* Un/Escape 选中的 javascript 文本
+			* Un/Escape 选中的 HTML 文本
+			* Un/Escape 选中的 XML 文本
+			* Un/Escape 选中的 SQL 文本
+			* Un/Escape 选中的 PHP 文本
+			* 将 diacritics(accents) 转换为 ASCII
+			* 将非ASCII 转换为转义的Unicode
+			* 将转义的Unicode转换为字符串
+
+		Encode/Decode:
+
+			* Encode 选中的文本为 MD5 Hex16
+			* De/Encode 选中的文本为 URL
+			* De/Encode 选中的文本为 Base64
+
+		递增/递减:
+
+			* 递增/递减所有找到的数字
+			* 复制行并且递增/递减所有找到的数字
+			* 创建序列：保持第一个数字，递增替换所有其他数字
+			* 递增重复的数字
+
+		按自然顺序排序:
+
+			* 按行倒序
+			* 按行随机排序
+			* 区分大小写A-z排序
+			* 区分大小写z-A排序
+			* 不区分大小写A-Z排序
+			* 不区分大小写Z-A排序
+			* 按行长度排序
+			* 通过子选择行排序：每行仅处理一个选择/插入符号
+
+		对齐：
+
+			* 通过选定的分隔将选定的文本格式化为列/表格
+			* 将文本对齐为左/中/右
+
+		过滤/删除/移除：
+
+			* grep选定的文本，所有行不匹配输入文字将被删除。 （不能在列模式下工作）
+			* 移除选定的文本
+			* 移除选定文本中的所有空格
+			* 删除选定文本中的所有空格
+			* 删除重复的行
+			* 只保留重复的行
+			* 删除空行
+			* 删除所有换行符
+
+		其他:
+
+			* 交换字符/选择/线/标记
+			* 切换文件路径分隔符：Windows < - > UNIX
+
+		官方网站：https://plugins.jetbrains.com/plugin/2162-string-manipulation
+
+	8. LiveEdit
+		提供实时编辑 HTML / CSS / JavaScript的工具。
+		注意：
+
+			* 如果打开Web Inspector，那么CSS / JavaScript同步和元素高亮显示不起作用
+			* “plugin is debugging this tab”信息栏的可用性问题
+
+
+		官方网站：https://plugins.jetbrains.com/plugin/7007-liveedit
+	
+	9. BrowseWordAtCaret
+		允许轻松浏览下一个/上一个字的插入符号，并高亮显示所选单词的外观
+		用法：使用CTRL-ALT-UP，CTRL-ALT-DOWN浏览 注意：在默认键盘映射中，这个快捷键也适用于下一个/上一个事件
+		官方网站 点击这里.
+	
+	10. Shifter
+		检测插入符号、行或关键字的类型，并在键盘快捷键上将其“向上”或“向下”移动。 如果一行中只有一个可移动的单词，则可以移动而不用插入它。 维持移位字的高位首字符的小写字母/大写字母或小写字母。
+		官方网站：https://plugins.jetbrains.com/plugin/6149-shifter
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
