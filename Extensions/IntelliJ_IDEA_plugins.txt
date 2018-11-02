@@ -13,7 +13,39 @@ IntelliJ IDEA 插件
 	
 	
 	
-	
+IDEA插件私家珍藏
+	1. JRebel for IntelliJ
+		热部署插件，Java WEB 开发必备，节省生命。
+	2. Custom Postfix Templates
+		我的最爱。可以自定义Postfix模板，千言万语，不如一图。	
+	3. Lombok Plugin
+		使用注解自动生成代码，码奴解放者。
+	4. RestfulToolkit
+		Java WEB开发必备，再也不用全局搜索RequestMapping了。
+	5. Translation
+		翻译插件，很好用。
+	6. Grep Console
+		高亮log不同级别日志，看日志的时候一目了然。
+	7. GenerateSerialVersionUID
+		Alt + Insert 生成serialVersionUID
+	8. Git Flow Integration
+		Git Flow插件，与IDEA集成。
+	9. GsonFormat
+		JSON报文 –> Java POJO 快速转换。
+	10. Material Theme UI
+		UI主题，有三款配色，看个人喜好。
+	11. String Manipulation
+		字符串格式风格快捷转换：大小写、驼峰、连接串等。
+	12. Alibaba Java Coding Guidelines
+		阿里巴巴Java开发规约扫描插件。
+	13. FindBugs
+		找到代码中潜在的问题。
+	14. Rainbow Brackets
+		彩虹括号。自动给代码块内花括号和括号加色，让视野更加注意在代码上。
+	15. Maven Helper
+		Maven插件，安装后可查看依赖以及冲突，一目了然。
+
+
 	
 	
 	

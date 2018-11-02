@@ -1,0 +1,151 @@
+	
+Firefox 拓展
+	
+	
+我正在使用的火狐扩展
+	
+	桌面版：
+		复制链接/标签名称和地址：Copy the name and URL of a link or a Tab. 复制链接或标签页的名称和地址
+
+		
+		书签搜索: 右键搜索功能，见之前的文章。
+
+		
+		AgentX: User-Agent 切换。
+
+		
+		Bookmarklets context menu: 因为 CSP，有些小书签不能加载了，通过 Web Extensions 绕过好了。
+
+		
+		Containers On The Go: 自动创建和清除临时身份。每个身份的 cookies 等存储是相互独立的。
+
+		
+		Decentraleyes: 给流行 JavaScript 库建立一个本地 CDN。
+
+		
+		Drag-Select Link Text: 选择链接里的文本。（可惜不支持 X 选择区。）
+
+		
+		Foxy Gestures: 手势。
+
+		
+		FoxyImage: 有时候会遇到方向不对的图片，用这个修理一下。
+
+		
+		Google™ Translator (web-extension): 翻译。目前网页内的选择翻译坏掉了，不过工具栏按钮还可以用。
+
+		
+		HTTPS Everywhere
+
+		
+		Inoreader Companion: 为了在后台打开 InoReader 里的文章。
+
+		
+		Octotree: GitHub / BitBucket 文件树。
+
+		
+		Push to Kindle
+
+		
+		Redirect Link: 在互联网档案馆、Archive.is 或者 Google 缓存里寻找当前页面，或者存档之。
+
+		
+		Redirector: 自定义重定向。比如查看图像时直接跳转到大图、跳过各种重定向链接之类的。
+
+		
+		Referer Control: 反盗链有时候很烦的。
+
+		
+		Rotate and Zoom Image: 另一个旋转图片的工具。
+
+		
+		Stylus: 更换网站样式，比如把 GitHub 顶栏变成白色、已访问链接使用不同的颜色。
+
+		
+		Tampermonkey: 更大力地修改网站。我正在使用的脚本都放在这里了。
+
+		
+		Textarea Cache: 在网站写东西的时候，遇到浏览器、系统崩溃死机？网站突然挂了？写的东西可别丢了。
+
+		
+		uBlock Origin: 广告屏蔽。
+
+		
+		User-Agent Switcher: 另一个切换 User-Agent 的扩展。
+
+		
+		v2ex plus: v2ex 新消息提醒、查看被回复的评论等。
+
+		
+		VimFx: 使用 Vim 的方式操作火狐。这是一个旧式扩展，使用 nightly 的话开启 extensions.legacy.enabled 选项才可以用。（AMO 上的文件链接）
+
+		
+		Wappalyzer: 看看网站都用了哪些技术。
+
+		
+		wxIF: 查看图片元数据。没什么用。
+
+		
+		Bookmarks Organizer: 整理书签。默认禁用，想整理的时候启用一下下。
+
+		
+		ScrollAnywhere: 按住中键移动鼠标时滚动页面。因为和 Foxy Gestures 使用中键冲突，暂时禁用。
+
+
+	Android 版
+		Android 版上使用的扩展比较少，大部分是桌面上用的扩展同时支持 Android，所以同步过来了。
+		只有一个例外：Text Reflow WE。
+			这个扩展是我移植到 Web Extensions 的。在点击内容时限制文本宽度，从而限制需要不断地横向滚动。
+			原本是 Opera Mobile 的特色功能，后来我换到火狐时找了个替代品，结果它没更新了，不支持57+，我就移植了一下。
+			代码十分简单，本来是一个 user script 就可以搞定的内容，但是 Android 上好像没 user script 扩展……
+	
+	2017年11月25日更新：
+		装回了 cliget，一个为下载项生成 wget / curl / aria2 调用命令的工具。
+			虽然因为没有 XUL API 可以修改保存对话框了，但是作者找到了一种不错的办法，把候选下载项保存到一个列表里方便取用。
+			会有误判，忽略就好。
+			这个列表是下载对话框弹出的时候就会更新，所以挺适合下载大的「百k盘」文件，下载链接超时失效之后可以获取一个新的让 wget 接着下。
+		暂时把 uBlock Origin 换回了 Adblock Plus。
+			界面比前者好看许多，可惜还是没有规则使用计数和最后使用时间记录，不方便清理失效的规则。
+		启用了 ScrollAnywhere，因为妨碍 Foxy Gestures 使用右键的 bug 已经解决了。
+			我使用的是 Nightly 版本所以很快就用上了，Linux 发行版如 Arch 也有做 backport。
+		考虑挽回 GreaseMonkey，不过发现有一个 bug 导致它不能在特定网站上触发安装操作。
+
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
