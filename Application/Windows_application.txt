@@ -76,12 +76,12 @@ Windows 应用
 		不过其实真正优秀高效的软件不一定只有 macOS 上才有，在 Windows 也同样有着不少好东西。
 		今天，AppSo 就为大家准备了一份《Windows 实用软件》清单，相信喜欢干净高效的你，肯定也会喜欢的。
 
-			* 高效截图就靠它
-			* Windows 里的 Alfred
-			* 办公协同神器
-			* PPT 好助手
-			* 还你干净的观影体验
-			* 还有这些优秀的 Windows 软件
+			高效截图就靠它
+			Windows 里的 Alfred
+			办公协同神器
+			PPT 好助手
+			还你干净的观影体验
+			还有这些优秀的 Windows 软件
 
 	高效截图：Snipaste
 	
@@ -149,12 +149,12 @@ Windows 应用
 
 	最后和大家分享几款同样广受好评的 Windows 软件：
 
-		* Total Commander：经典的文件资源管理软件，上手有点难度，但功能强大
-		* AutoHotKey：强大的开源热键功能软件
-		* WGestures：全局鼠标手势
-		* Clover：将资源管理器变成多标签显示
-		* MyerList：待办事项 List 应用
-		* GlassWire：流量监控工具
+		Total Commander：经典的文件资源管理软件，上手有点难度，但功能强大
+		AutoHotKey：强大的开源热键功能软件
+		WGestures：全局鼠标手势
+		Clover：将资源管理器变成多标签显示
+		MyerList：待办事项 List 应用
+		GlassWire：流量监控工具
 
 
 
@@ -215,9 +215,9 @@ Windows 应用
 		经过近两年的开发，目前 Windows Subsystem For Linux（以下简称 WSL）已经十分完善。我从微软商店下载安装了 Ubuntu 18.04 作为 WSL 的系统，并使用 Ubuntu 下的 aptitude 包管理工具链配置了我的开发环境。安装 WSL 的详细步骤在 –> 这里。
 		Ubuntu WSL
 		在 WSL 中我安装了我的必备开发工具：
-			* git 代码版本控制
-			* ssh 远程服务器连接 ?
-			* zsh 与 oh-my-zsh Shell 环境
+			git 代码版本控制
+			ssh 远程服务器连接 ?
+			zsh 与 oh-my-zsh Shell 环境
 		在 Windows 中我通过 Hyper 终端环境进行实战。
 		Hyper 是一个基于 Election 的终端 Terminal Emulator，是一个插件丰富的、跨平台的终端。
 		我写过一个有关它的详细介绍 HOW TO | 让自己的终端漂亮得不像实力派。
@@ -293,8 +293,17 @@ Windows 上好用的格式转换工具
 		你可以在 Foobar2000 官网 和 Microsoft Store 下载。
 	
 	
-	
-	
+虚拟桌面
+	Virgo 是一款轻量到极致的虚拟桌面软件，这款软件采用 C 语言编写，只有 323 行代码。
+	整个软件大小仅为 8KB，却能实现完善的虚拟桌面功能。
+	初次打开 Virgo，没有任何提示，也没有菜单和选项，只有一个任务栏的常驻图标显示当前的桌面序号。
+	在 Virgo 中，最多可以分为 4 个虚拟桌面。而且所有操作只能靠快捷键：
+		ALT + 1 ~ 4 切换到 1 ~ 4 号桌面
+		CTRL + 1 ~ 4 将当前活动的窗口移动到 1 ~ 4 号桌面
+		ALT + CTRL + SHIFT + Q 退出程序
+		ALT + CTRL + SHIFT + S 启用或停用其他快捷键
+
+
 	
 	
 	
