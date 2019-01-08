@@ -170,6 +170,38 @@ IntelliJ 插件 Top 10
 	
 	
 	
+IDEA Mybatis 插件：
+	
+	逆向生成代码：
+		better-mybatis-generator:
+			插件菜单位置：Tools, mybatis generator plugin;
+			教程：https://github.com/kmaster/better-mybatis-generator/blob/master/README.md
+
+		idea-mybatis-generator: 
+			插件菜单位置：Plugin, mybatis-generator;
+			教程：https://gitee.com/rohou/mybatis-generator
+			
+		mybatis code generator: 
+			插件菜单位置：Code, Code Generator;
+			教程：https://gitee.com/zhanghw/MybatisGenCode
+			
+		Mybatis Plus: 
+			插件菜单位置：Tools, Mybatis Plus;
+			教程：https://github.com/mustfun/mybatis-plus
+		
+		codehelper.generator：
+			插件菜单位置：Tools, CodeHelper
+			教程：https://github.com/zhengjunbase/codehelper.generator
+		
+	全能型（收费）：
+		MyBatisCodeHelper-Pro：
+			插件菜单位置：Tools, MyBatisCodeHelper
+			教程：https://github.com/gejun123456/MyBatisCodeHelper-Pro
+	
+	增强型（跳转和提示）：
+		Free Mybatis plugin
+			教程：https://github.com/wuzhizhan/free-idea-mybatis
+	
 	
 	
 	
