@@ -24,9 +24,9 @@ Developer 工具
 	
 	终端工具：Cmder
 	
-	API工具：Postman
+	API 工具：Postman
 	
-	API管理平台
+	API 管理平台：
 		Hitchhiker
 		eoLinker
 		apidocjs
