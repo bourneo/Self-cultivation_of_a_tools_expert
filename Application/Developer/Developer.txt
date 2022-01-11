@@ -16,7 +16,7 @@ Developer 工具
 	
 	IDE：IntelliJ IDEA
 	
-	文本编辑器：Sublime
+	文本编辑器：Notepad++
 	
 	数据库客户端：DataGrip
 	

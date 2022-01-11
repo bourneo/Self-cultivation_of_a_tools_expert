@@ -39,8 +39,6 @@ IDEA插件私家珍藏
 		字符串格式风格快捷转换：大小写、驼峰、连接串等。
 	12. Alibaba Java Coding Guidelines
 		阿里巴巴Java开发规约扫描插件。
-	13. FindBugs
-		找到代码中潜在的问题。
 	14. Rainbow Brackets
 		彩虹括号。自动给代码块内花括号和括号加色，让视野更加注意在代码上。
 	15. Maven Helper
@@ -59,12 +57,6 @@ IntelliJ IDEA 珍藏插件
 		一旦安装了Maven Helper插件，只要打开pom文件，就可以打开该pom文件的Dependency Analyzer视图（在文件打开之后，文件下面会多出这样一个tab）。
 		进入Dependency Analyzer视图之后有三个查看选项，分别是Conflicts(冲突)、All Dependencies as List(列表形式查看所有依赖)、All Dependencies as Tree(树结构查看所有依赖)。并且这个页面还支持搜索。
 		
-	2
-	FindBugs-IDEA
-		FindBugs很多人都并不陌生，Eclipse中有插件可以帮助查找代码中隐藏的bug，IDEA中也有这款插件。
-		使用方法很简单，就是可以对多种级别的内容进行finbugs
-		分析完之后会有一个视图进行提示，详细的说明是哪种问题。
-		
 	3
 	阿里巴巴代码规约检测
 		2017年10月14日杭州云栖大会，Java代码规约扫描插件全球首发仪式正式启动，规范正式以插件形式公开走向业界，引领Java语言的规范之路。
@@ -78,7 +70,7 @@ IntelliJ IDEA 珍藏插件
 		Java开发中，经常有把json格式的内容转成Object的需求，比如项目开始时，合作方给你提供了一个json格式request/response，这时候你就需要将其定义成一个Java类，GsonFormat这款插件可以实现该功能。
 		
 	5
-	Lombok plugin
+	Lombok
 	
 		在Java中，我们经常会定义很多JavaBean，这些Bean需要有getter、setter、toString、equals和hashCode等方法。
 		通常情况下，我们可以使用IDEA的快捷键生成这些代码，但是自动生成的代码后，如果bean中的属性一旦有修改，需要重新生成，给代码维护增加了一定的负担。
@@ -248,18 +240,23 @@ IntelliJ 插件 Top 10
 	2. JRebel for IntelliJ
 		JRebel是一个提升生产力的工具，它可以帮助开发人员快速的重新加载更改的代码。 它跳过了Java开发中常见的重新构建，重启以及重新部署的循环操作。 JRebel使开发人员能够在相同的时间内完成更多的工作，让开发人员的编码过程变得更加流畅。
 		官方网站：https://plugins.jetbrains.com/plugin/4441-jrebel-for-intellij
+
 	3. Maven Helper
 		这个一个必须与maven一起工作的插件。它提供了运行/调试当前测试文件的功能。 如果maven-surefire-plugin配置为跳过或排除测试，“verify”目标将会被启用。它还提供了运行/调试当前文件所在模块的快捷操作，以及简化查找和排除冲突依赖关系的方法。
 		官方网站：https://plugins.jetbrains.com/plugin/7179-maven-helper
+
 	4. BashSupport
 		IntelliJ平台的Bash语言支持插件。支持语法高亮显示，重构方式的重命名，文档查找，检查，快速修复等功能。
+
 		官方网站：https://plugins.jetbrains.com/plugin/4230-bashsupport
 	5. SQL Query Plugin
 		通过JDBC连接执行SQL语句的工具。它具有语法高亮、一次执行多个SQL语句，高亮显示主键和外键，直接编辑结果等功能。
 		官方网站：https://plugins.jetbrains.com/plugin/228-sql-query-plugin
+
 	6. IdeaVim
 		基于IntelliJ的Vim仿真插件。IdeaVim支持许多Vim功能，包括normal/insert/visual模式，motion键，删除/更改，标记，寄存器，一些Ex命令，Vim正则表达式，通过〜/ .ideavimrc，宏，窗口命令等进行配置的功能。
 		官方网站：https://plugins.jetbrains.com/plugin/2162-string-manipulation
+
 	7. String Manipulation
 		提供强大的文本转换操作：
 
@@ -387,24 +384,6 @@ IDEA Mybatis 插件：
 	增强型（跳转和提示）：
 		Free Mybatis plugin
 			教程：https://github.com/wuzhizhan/free-idea-mybatis
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
