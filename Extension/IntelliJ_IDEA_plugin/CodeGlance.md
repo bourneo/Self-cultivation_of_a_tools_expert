@@ -1,6 +1,4 @@
-
-
-CodeGlance
+## CodeGlance
 
 拥有像 vscode 一样的一览缩略图
 

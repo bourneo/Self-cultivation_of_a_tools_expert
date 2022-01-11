@@ -1,4 +1,4 @@
-Maven Helper
+## Maven Helper
 
 maven 依赖树的可视化展示工具，查询被动依赖和依赖冲突的神器
 

@@ -1,4 +1,4 @@
-google-java-format
+## google-java-format
 
 非常受欢迎的 Java 代码风格规范
 

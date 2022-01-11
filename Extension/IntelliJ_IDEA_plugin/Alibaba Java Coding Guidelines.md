@@ -1,4 +1,4 @@
-Alibaba Java Coding Guidelines
+## Alibaba Java Coding Guidelines
 
 阿里的 Java 编码指南，提供编码风格，一些常见的最佳实践指导
 
