@@ -1,5 +1,7 @@
 ## lombok
 
+推荐指数：⭐⭐⭐⭐
+
 不得不装的一个插件
 
 https://plugins.jetbrains.com/plugin/6317-lombok

@@ -1,12 +1,10 @@
 ## String Manipulation
 
-
+推荐指数：⭐⭐⭐⭐
 
 字符串工具
 
 大小写转换，驼峰，下划线，空格。。。
-
-
 
 https://plugins.jetbrains.com/plugin/2162-string-manipulation
 

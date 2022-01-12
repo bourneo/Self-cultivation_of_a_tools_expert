@@ -1,5 +1,7 @@
 ## google-java-format
 
+推荐指数：⭐⭐⭐⭐
+
 非常受欢迎的 Java 代码风格规范
 
 https://plugins.jetbrains.com/plugin/8527-google-java-format

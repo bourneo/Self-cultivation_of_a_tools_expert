@@ -1,10 +1,8 @@
 Genymotion
 
-
+推荐指数：⭐⭐⭐⭐⭐
 
 一个快速且易于使用的 Android 模拟器，用于运行和测试 Android 应用程序
-
-
 
 https://plugins.jetbrains.com/plugin/7269-genymotion
 

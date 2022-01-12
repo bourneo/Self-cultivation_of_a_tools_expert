@@ -1,5 +1,7 @@
 ## CodeGlance
 
+推荐指数：⭐⭐⭐
+
 拥有像 vscode 一样的一览缩略图
 
 https://plugins.jetbrains.com/plugin/7275-codeglance

@@ -1,5 +1,7 @@
 ## Translation
 
+推荐指数：⭐⭐⭐⭐
+
 翻译选中的文本或文件
 
 https://plugins.jetbrains.com/plugin/8579-translation

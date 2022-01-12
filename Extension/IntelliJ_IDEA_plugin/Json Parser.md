@@ -1,5 +1,7 @@
 ## Json Parser
 
+推荐指数：⭐⭐⭐
+
 json 字符格式化展示插件
 
 https://plugins.jetbrains.com/plugin/10650-json-parser

@@ -1,5 +1,7 @@
 ## JavaDoc
 
+推荐指数：⭐⭐⭐⭐
+
 能够自动生成格式化的各种注释，支持自定义格式和内容
 
 https://plugins.jetbrains.com/plugin/7157-javadoc

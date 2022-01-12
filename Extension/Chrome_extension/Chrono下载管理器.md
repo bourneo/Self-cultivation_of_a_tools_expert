@@ -1,10 +1,8 @@
 ## Chrono下载管理器
 
-
+推荐指数：⭐⭐⭐⭐⭐
 
 比 Chrome 自带的下载管理器好用
-
-
 
 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
 

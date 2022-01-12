@@ -1,10 +1,8 @@
 ## Open the F--king URL Right Now
 
-
+推荐指数：⭐⭐⭐⭐⭐
 
 自动跳转某些网站不希望用户直达的外链
-
-
 
 https://greasyfork.org/zh-CN/scripts/412612-open-the-f-king-url-right-now
 

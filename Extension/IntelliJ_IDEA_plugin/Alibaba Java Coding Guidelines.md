@@ -1,13 +1,12 @@
 ## Alibaba Java Coding Guidelines
 
+推荐指数：⭐⭐⭐⭐
+
 阿里的 Java 编码指南，提供编码风格，一些常见的最佳实践指导
 
 国内有些公司会写自己的 Java 开发规范，但是或多或少都会参考阿里的指南
 
 https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines
-
-
-
 
 
 
