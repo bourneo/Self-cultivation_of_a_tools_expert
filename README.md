@@ -43,8 +43,8 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 |---|---|---|---|
 | 1 | Tampermonkey | 油猴脚本 | ⭐⭐⭐⭐⭐ |
 | 2 | uBlock Origin | 广告屏蔽插件 | ⭐⭐⭐⭐⭐ |
-| 3 | Chrono下载管理器 | 下载管理插件 | ⭐⭐⭐⭐⭐ |
-| 4 | 沙拉查词 | 单词翻译插件 | ⭐⭐⭐⭐⭐ |
+| 3 | 沙拉查词 | 单词翻译插件 | ⭐⭐⭐⭐⭐ |
+| 4 | Chrono下载管理器 | 下载管理插件 | ⭐⭐⭐⭐ |
 | 5 | 购物党自动比价工具 | 商品历史价格查询 | ⭐⭐⭐⭐ |
 | 6 | Language Reactor | 字幕翻译插件 | ⭐⭐⭐ |
 |   |<img width=300px/>|<img width=500px/>|<img width=200px/>|
@@ -82,7 +82,7 @@ Some script to deal with repeat job in a simple way
 | 3 | B站(Bilibili)搜索页面、个人主页已看视频标记 | 标记哪些视频是已经看过的 | ⭐⭐⭐⭐ |
 | 4 | 片假名终结者 | 在网页中的日语外来语上方标注英文原词 | ⭐⭐⭐⭐ |
 | 5 | 知乎增强 | 告别知乎登录弹窗 | ⭐⭐⭐ |
-| 6 | 🔥持续更新🔥 CSDN广告完全过滤、人性化脚本优化：🆕 不用再登录了！让你体验令人惊喜的崭新CSDN。 | 告别 csdn 登录弹窗 | ⭐⭐⭐ |
+| 6 | CSDN广告完全过滤、人性化脚本 | 告别 csdn 登录弹窗 | ⭐⭐⭐ |
 |   |<img width=300px/>|<img width=500px/>|<img width=200px/>|
 
 ###### bat
@@ -95,7 +95,7 @@ Some script to deal with repeat job in a simple way
 
 ###### Windows：
 
-[IntelliJ_IDEA_shortcut](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master//Shortcut/Windows/IntelliJ_IDEA_shortcut.md)
+[IntelliJ-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Windows/IntelliJ-IDEA.md)
 
 ---
 
