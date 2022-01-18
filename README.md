@@ -89,7 +89,9 @@ Some script to deal with repeat job in a simple way
 
 ###### Windows：
 
-[IntelliJ IDEA shortcut](./Shortcut/Windows/IntelliJ IDEA shortcut.md)
+[IIntelliJ_IDEA_shortcut](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master//Shortcut/Windows/IntelliJ_IDEA_shortcut.md)
+
+---
 
 ## Keep on updating ...
 
