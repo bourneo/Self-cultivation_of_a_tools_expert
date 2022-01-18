@@ -2,10 +2,9 @@
 
 #### 基础：
 
-| # | 名称 | 简介 | 推荐指数 |
+| # | 名称<div style="width:400px"> | 简介<div style="width:400px"> | 推荐指数<div style="width:100px"> |
 |---|---|---|---|
 | 1 | IntelliJ IDEA | 功能强大体验友好的集成开发环境 | ⭐⭐⭐⭐⭐ |
-|   | <img width=300px/> | <img width=400px/> | <img width=400px/> |
 
 #### 提高：
 
