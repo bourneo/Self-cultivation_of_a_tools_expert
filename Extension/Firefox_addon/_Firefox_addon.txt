@@ -2,10 +2,48 @@
 Firefox 拓展
 
 	桌面版：
+
+
+
+		Tampermonkey:
+
+		    更大力地修改网站
+
+
+
+		uBlock Origin:
+
+		    广告屏蔽
+
+
+
+
+
+		Google™ Translator (web-extension):
+
+		    翻译。目前网页内的选择翻译坏掉了，不过工具栏按钮还可以用。
+
+
+
+		User-Agent Switcher:
+
+		    另一个切换 User-Agent 的扩展
+
+
+
+		Wappalyzer:
+
+		    看看网站都用了哪些技术。
+
+
+
+
+
+
 		复制链接/标签名称和地址：Copy the name and URL of a link or a Tab. 复制链接或标签页的名称和地址
 
 		
-		书签搜索: 右键搜索功能，见之前的文章。
+		书签搜索: 右键搜索功能。
 
 		
 		AgentX: User-Agent 切换。
@@ -27,9 +65,6 @@ Firefox 拓展
 
 		
 		FoxyImage: 有时候会遇到方向不对的图片，用这个修理一下。
-
-		
-		Google™ Translator (web-extension): 翻译。目前网页内的选择翻译坏掉了，不过工具栏按钮还可以用。
 
 		
 		HTTPS Everywhere
@@ -59,25 +94,13 @@ Firefox 拓展
 		Stylus: 更换网站样式，比如把 GitHub 顶栏变成白色、已访问链接使用不同的颜色。
 
 		
-		Tampermonkey: 更大力地修改网站。我正在使用的脚本都放在这里了。
-
-		
 		Textarea Cache: 在网站写东西的时候，遇到浏览器、系统崩溃死机？网站突然挂了？写的东西可别丢了。
-
-		
-		uBlock Origin: 广告屏蔽。
-
-		
-		User-Agent Switcher: 另一个切换 User-Agent 的扩展。
 
 		
 		v2ex plus: v2ex 新消息提醒、查看被回复的评论等。
 
 		
 		VimFx: 使用 Vim 的方式操作火狐。这是一个旧式扩展，使用 nightly 的话开启 extensions.legacy.enabled 选项才可以用。（AMO 上的文件链接）
-
-		
-		Wappalyzer: 看看网站都用了哪些技术。
 
 		
 		wxIF: 查看图片元数据。没什么用。
@@ -89,39 +112,5 @@ Firefox 拓展
 		ScrollAnywhere: 按住中键移动鼠标时滚动页面。因为和 Foxy Gestures 使用中键冲突，暂时禁用。
 
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
