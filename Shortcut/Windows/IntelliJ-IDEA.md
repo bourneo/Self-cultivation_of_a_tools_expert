@@ -2,6 +2,8 @@
 
 ---
 
+#### 目录
+
 * [一.数据集获取及预处理](#1)
 
     * [1 数据集导入](#1.1)
@@ -23,25 +25,15 @@
 
 ---
 
-# Table of contents
-
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#Developer)
-3. [Another paragraph](#paragraph2)
-    1.
-
----
-
 #### 目录
 
 #### [Applications](#shortcut)
 
 ###### [Developer](#shortcuts)
 
-#### [Extension](#Extension)
+#### [Extension](#基础)
 
-#### [Script](#Script)
+#### [Script](#提高)
 
 ---
 
