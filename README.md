@@ -6,11 +6,11 @@
 
 1. [Application](#Application)
     1. [Developer](#Developer)
-    2. [iOS_app](#iOS app)
-    3. [Windows_application](#Windows application)
+    2. [iOS_app](#iOS_app)
+    3. [Windows_application](#Windows_application)
 2. [Extension](#Extension)
-    1. [Chrome_extension](#Chrome extension)
-    2. [IntelliJ_IDEA_plugin](#IntelliJ IDEA plugin)
+    1. [Chrome_extension](#Chrome_extension)
+    2. [IntelliJ_IDEA_plugin](#IntelliJ_IDEA_plugin)
     3. [Developer](#Developer)
 3. [Script](#Script)
     1. [tampermonkey](#tampermonkey)
@@ -31,14 +31,14 @@ Recommend applications in most of all popular platform, including brief introduc
 | 1 | IntelliJ IDEA | 功能强大体验友好的集成开发环境 | 9 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### iOS app：
+###### iOS_app：
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
 | 1 | Workflow | 快捷指令 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Windows application：
+###### Windows_application：
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
@@ -55,7 +55,7 @@ Recommend applications in most of all popular platform, including brief introduc
 
 Recommend extension for some amazing applications, just like Chrome, IntelliJ IDEA and so on
 
-###### Chrome extension：
+###### Chrome_extension：
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
@@ -67,7 +67,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 6 | Language Reactor | 字幕翻译插件 | 7 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### IntelliJ IDEA plugin：
+###### IntelliJ_IDEA_plugin：
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
