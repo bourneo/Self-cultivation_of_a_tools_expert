@@ -63,6 +63,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
 | 3 | 沙拉查词 | 单词翻译插件 | 9 * ⭐ |
 | 4 | Chrono下载管理器 | 下载管理插件 | 8 * ⭐ |
+| 4 | 为什么你们就是不能加个空格呢 | 中文页面浏览优化 | 8 * ⭐ |
 | 5 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
 | 6 | Language Reactor | 字幕翻译插件 | 7 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
