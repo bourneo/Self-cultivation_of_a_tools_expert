@@ -5,18 +5,22 @@
 #### Content / 目录
 
 1. [Application](#Application)
-    1. [Developer](#Developer)
-    2. [iOS_app](#iOS_app)
-    3. [Windows_application](#Windows_application)
+    - [Developer](#Developer)
+    - [iOS_app](#iOS_app)
+    - [Windows_application](#Windows_application)
 2. [Extension](#Extension)
-    1. [Chrome_extension](#Chrome_extension)
-    2. [IntelliJ_IDEA_plugin](#IntelliJ_IDEA_plugin)
-    3. [Developer](#Developer)
+    - [Chrome_extension](#Chrome_extension)
+    - [IntelliJ_IDEA_plugin](#IntelliJ_IDEA_plugin)
+    - [Developer](#Developer)
 3. [Script](#Script)
-    1. [tampermonkey](#tampermonkey)
-    2. [bat](#bat)
+    - [tampermonkey](#tampermonkey)
+    - [bat](#bat)
 4. [Shortcut](#Shortcut)
-    1. [Windows](#Windows)
+    - [Windows](#Windows)
+4. [Software_Brand](#Software_Brand)
+    - [JetBrains](#JetBrains)
+    - [Bandisoft](#Bandisoft)
+    - [Bandicam](#Bandicam)
 
 ---
 
@@ -112,9 +116,37 @@ Some script to deal with repeat job in a simple way
 
 Some script to deal with repeat job in a simple way
 
+###### IntelliJ-IDEA：
+
+[IntelliJ-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/IntelliJ-IDEA.md)
+
 ###### Windows：
 
-[IntelliJ-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Windows/IntelliJ-IDEA.md)
+[Windows](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Windows.md)
+
+---
+
+#### Software_Brand
+
+###### JetBrains
+
+- IntelliJ IDEA
+- PyCharm
+- Goland
+- WebStorm
+- DataGrip
+
+###### Bandisoft
+
+- Bandizip
+- HoneyView
+- Honeycam
+- Shutdown8
+
+###### Bandicam
+
+- Bandicam
+- Bandicut
 
 ---
 
