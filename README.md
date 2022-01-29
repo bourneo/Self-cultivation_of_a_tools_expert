@@ -50,7 +50,8 @@ Recommend applications in most of all popular platform, including brief introduc
 | 2 | Snipaste | 截图工具 | 9 * ⭐ |
 | 3 | Bandzip | 压缩软件 | 9 * ⭐ |
 | 4 | Potplayer | 视频播放器 | 9 * ⭐ |
-| 5 | Free Download Manager | 免费下载器 | 8 * ⭐ |
+| 5 | WizTree | 磁盘空间分析工具 | 9 * ⭐ |
+| 6 | Free Download Manager | 免费下载器 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
