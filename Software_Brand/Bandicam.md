@@ -2,9 +2,9 @@
 
 ---
 
-Founded in 2008
+Year founded: 2008
 
-country: Republic of Korea
+Country based: Republic of Korea
 
 ---
 
@@ -23,6 +23,17 @@ https://www.bandicam.com/free-screen-recorder/
 官方链接：👉 [Bandicut](
 https://www.bandicam.com/bandicut-video-cutter/download/
 ) 👈
+
+
+
+---
+
+Reference：
+
+- [bandicam.com](https://www.bandicam.com/company/)
+
+---
+
 
 
 

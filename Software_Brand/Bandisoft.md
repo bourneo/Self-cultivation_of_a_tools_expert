@@ -2,9 +2,9 @@
 
 ---
 
-Founded in 2008
+Year founded: 2008
 
-country: Republic of Korea
+Country based: Republic of Korea
 
 ---
 
@@ -36,6 +36,17 @@ https://www.bandisoft.com/honeycam/
 https://www.bandisoft.com/shutdown8/
 ) 👈
 
+
+
+
+
+---
+
+Reference：
+
+- [bandisoft.com](bandisoft.com/about/)
+
+---
 
 
 
