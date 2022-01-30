@@ -8,9 +8,18 @@
 
     拥有像 vscode 一样的一览缩略图
 
+---
+
+
+
 官方链接：👉 [CodeGlance](
 https://plugins.jetbrains.com/plugin/7275-codeglance
 ) 👈
+
+
+
+---
+
 
 
 

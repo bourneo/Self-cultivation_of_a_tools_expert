@@ -8,9 +8,18 @@
 
     支持批处理脚本语法高亮
 
+---
+
+
+
 官方链接：👉 [Batch Scripts Support](
 https://plugins.jetbrains.com/plugin/265-batch-scripts-support
 ) 👈
+
+
+
+---
+
 
 
 

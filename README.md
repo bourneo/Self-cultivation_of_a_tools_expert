@@ -88,8 +88,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 8 | lombok | 用注释取代样板代码 | 8 * ⭐ |
 | 9 | Translation | 翻译工具 | 8 * ⭐ |
 | 10| CodeGlance | 代码地图插件 | 7 * ⭐ |
-| 11| CheckStyle-IDEA | 代码格式检查提示 | 7 * ⭐ |
-| 12| Chinese (Simplified) Language Pack 中文语言包 | JetBrains 官方中文语言包 | 7 * ⭐ |
+| 11| Chinese (Simplified) Language Pack 中文语言包 | JetBrains 官方中文语言包 | 7 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
