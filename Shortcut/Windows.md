@@ -35,10 +35,9 @@ Shortcut recommend for Windows 10
 |---|---|---|---|
 | 1 | F2 | 资源管理器中重命名 | 8 * ⭐ |
 | 2 | F4 | 资源管理器中显示文件地址 | 8 * ⭐ |
-| 3 | F4 | 重复上一步的操作 | 7 * ⭐ |
 |<img width=40px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-
+---
 
 
 

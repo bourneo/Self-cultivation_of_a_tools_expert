@@ -38,4 +38,5 @@
 | 4 | F2 | 高亮错误或警告快速定位 | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
+---
 
