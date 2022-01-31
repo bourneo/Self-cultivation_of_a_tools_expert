@@ -161,7 +161,7 @@ Some script to deal with repeat job in a simple way
 
 ---
 
-## Keep on updating ...
+## Updating ...
 
 --- 
 
