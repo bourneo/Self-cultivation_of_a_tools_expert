@@ -1,20 +1,19 @@
-## Word shortcut
+## Word
 
 ---
 
-#### shortcuts
+#### Shortcut
 
-| Alt | 按键 | 功能 | 推荐指数 |
+###### Alt 组：
+
+| # | 按键 | 功能 | 推荐指数 |
 |---|---|---|---|
 | 1 | Alt + Q | 操作说明搜索 | 9 * ⭐ |
-|<img width=40px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-| Shift | 按键 | 功能 | 推荐指数 |
-|---|---|---|---|
-| 1 | Shift + F3| 大小写转换 | 9 * ⭐ |
-|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+###### Ctrl 组：
 
-| Ctrl | 按键 | 功能 | 推荐指数 |
+| # | 按键 | 功能 | 推荐指数 |
 |---|---|---|---|
 | 1 | Ctrl + Z | 撤销 | 9 * ⭐ |
 | 2 | Ctrl + Y | 恢复 | 9 * ⭐ |
@@ -32,12 +31,21 @@
 | 14| Ctrl + M | 增加缩进量 | 8 * ⭐ |
 | 15| Ctrl + Shift + M | 减少缩进量 | 8 * ⭐ |
 | 16| Ctrl + Shift + F9 | 清除文档中的超级链接 | 7 * ⭐ |
-|<img width=40px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-| F | 按键 | 功能 | 推荐指数 |
+###### Shift 组：
+
+| Shift | 按键 | 功能 | 推荐指数 |
+|---|---|---|---|
+| 1 | Shift + F3| 大小写转换 | 9 * ⭐ |
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+
+###### 功能键组：
+
+| # | 按键 | 功能 | 推荐指数 |
 |---|---|---|---|
 | 1 | F4 | 重复上一步的操作 | 7 * ⭐ |
-|<img width=40px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
 

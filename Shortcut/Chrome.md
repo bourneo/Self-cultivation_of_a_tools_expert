@@ -1,21 +1,20 @@
-## Chrome shortcut
+## Chrome
 
 ---
 
-#### shortcuts
+#### Shortcut
 
-| Alt | 按键 | 功能 | 推荐指数 |
+###### Alt 组：
+
+| # | 按键 | 功能 | 推荐指数 |
 |---|---|---|---|
 | 1 | Alt + F4 | 关闭浏览器窗口 | 8 * ⭐ |
 | 1 | Alt + 方向键（左右） | 浏览记录中记录的上一个页面 / 下一个页面 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-| Shift | 按键 | 功能 | 推荐指数 |
-|---|---|---|---|
-| 1 | Shift + 鼠标滚轮 | 网页水平滚动 | 8 * ⭐ |
-|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+###### Ctrl 组：
 
-| Ctrl | 按键 | 功能 | 推荐指数 |
+| # | 按键 | 功能 | 推荐指数 |
 |---|---|---|---|
 | 1 | Ctrl + T | 打开新标签页 | 9 * ⭐ |
 | 2 | Ctrl + Shift + T | 恢复关闭的网页 | 9 * ⭐ |
@@ -29,9 +28,18 @@
 | 10| Ctrl + N | 打开新窗口 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-| F | 按键 | 功能 | 推荐指数 |
+###### Shift 组：
+
+| Shift | 按键 | 功能 | 推荐指数 |
 |---|---|---|---|
-| 1 | F11 | 全屏浏览开关 | 8 * ⭐ |
+| 1 | Shift + 鼠标滚轮 | 网页水平滚动 | 8 * ⭐ |
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+
+###### 功能键组：
+
+| # | 按键 | 功能 | 推荐指数 |
+|---|---|---|---|
+| 1 | F11 | 切换全屏 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
