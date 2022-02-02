@@ -58,7 +58,8 @@ Recommend applications in most of all popular platform, including brief introduc
 |---|---|---|---|
 | 1 | Shortcuts-快捷指令 | 捷径 | 8 * ⭐ |
 | 2 | ColorfulCloudsWeather-彩云天气 | 天气预报 | 9 * ⭐ |
-| 3 | GuideRank-盖得排行 | 消费品品牌排行榜 | 8 * ⭐ |
+| 3 | 计算器-多功能科学语音计算器 | 全能计算器 | 9 * ⭐ |
+| 4 | GuideRank-盖得排行 | 消费品品牌排行榜 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
