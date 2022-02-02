@@ -14,9 +14,12 @@
 3. [Script](#Script)
     - [Tampermonkey](#Tampermonkey)
     - [bat](#bat)
+    - [ffmpeg](#ffmpeg)
 4. [Shortcut](#Shortcut)
     - [IntelliJ-IDEA](#IntelliJ-IDEA)
     - [Windows](#Windows)
+    - [Chrome](#Chrome)
+    - [Word](#Word)
 4. [Software_Brand](#Software_Brand)
     - [JetBrains](#JetBrains)
     - [Bandisoft](#Bandisoft)
@@ -118,19 +121,34 @@ Some script to deal with repeat job in a simple way
 
 ###### bat
 
+[bat](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/bat)
+
+###### ffmpeg
+
+[ffmpeg](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/ffmpeg/_ffmpeg.md)
+
 ---
 
 #### Shortcut
 
 Some script to deal with repeat job in a simple way
 
-###### IntelliJ-IDEA：
+###### IntelliJ-IDEA
 
 [IntelliJ-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/IntelliJ-IDEA.md)
 
-###### Windows：
+###### Windows
 
 [Windows](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Windows.md)
+
+###### Chrome
+
+[Chrome-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Chrome.md)
+
+###### Word
+
+[Word](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Word.md)
+
 
 ---
 

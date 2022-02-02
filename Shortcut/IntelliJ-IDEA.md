@@ -33,6 +33,7 @@
 | 9 | Ctrl + Shift + C | 复制文件绝对路径 | 7 * ⭐ |
 | 10| Ctrl + Shift + U | 大小写转换 | 9 * ⭐ |
 | 11| Ctrl + Alt + 方向键（左右）| 返回至上次浏览的位置 | 9 * ⭐ |
+| 12| Ctrl + Alt + S | 打开设置 | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 | F | 按键 | 功能 | 推荐指数 |
