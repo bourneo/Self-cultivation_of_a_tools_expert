@@ -55,6 +55,12 @@ ffmpeg -loop 1 -i 漠河舞厅.jpg -i 漠河舞厅.mp3 -c:v libx264 -c:a aac -b:
 // 选 1080:1080 是因为专辑封面是正方形，而且源分辨率太大，需要压缩一下
 ```
 
+###### 视频加字幕
+
+```
+ffmpeg -i 漠河舞厅.mp4 -vf subtitles=漠河舞厅.ass output1.mp4
+```
+
 ---
 
 
