@@ -45,21 +45,21 @@ ffmpeg -ss 00:02:25 -i 漠河舞厅.mp4 -to 00:05:34 -c copy output1.mp4
 ###### 截取音频
 
 ```
-ffmpeg -ss 00:02:24 -i 漠河舞厅.mp3 -to 00:05:34 -c copy output1.mp3
+ffmpeg -ss 00:02:24.5 -i 漠河舞厅.mp3 -to 00:05:38 -c copy output1.mp3
 ```
 
 ###### 音频转视频（加封面）
 
 ```
-ffmpeg -loop 1 -i 漠河舞厅.jpg -i 漠河舞厅.mp3 -c:v libx264 -c:a aac -b:a 320k -vf scale=1080:1080 -shortest output1.mp4
+ffmpeg -loop 1 -i 漠河舞厅.jpg -i 漠河舞厅.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output1.mp4
 ```
 
 ###### 视频加字幕
 
 ```
 // 加硬字幕：
-ffmpeg -i 漠河舞厅.mp4 -vf subtitles=漠河舞厅.ass output1.mp4
-// 加硬字幕也会有若干秒的误差
+// 直接复制音频可以防止音频压缩
+ffmpeg -i 漠河舞厅.mp4 -vf subtitles=漠河舞厅.ass -c:a copy output1.mp4
 ```
 
 ```
