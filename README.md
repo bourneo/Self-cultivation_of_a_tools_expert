@@ -9,8 +9,9 @@
     - [Developer_tool](#Developer_tool)
     - [iOS_app](#iOS_app)
 2. [Extension](#Extension)
-    - [Chrome_extension](#Chrome_extension)
     - [IntelliJ_IDEA_plugin](#IntelliJ_IDEA_plugin)
+    - [Firefox_addon](#Firefox_addon)
+    - [Chrome_extension](#Chrome_extension)
 3. [Script](#Script)
     - [Tampermonkey](#Tampermonkey)
     - [bat](#bat)
@@ -33,7 +34,7 @@
 
 Recommend applications in most of all popular platform, including brief introduction in Chinese
 
-###### Windows_application：
+###### Windows_application
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
@@ -46,7 +47,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 7 | Free Download Manager | 免费下载器 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Developer_tool：
+###### Developer_tool
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
@@ -56,7 +57,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 4 | DataGrip | 功能强大的数据库客户端工具 | 9 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### iOS_app：
+###### iOS_app
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
@@ -72,20 +73,7 @@ Recommend applications in most of all popular platform, including brief introduc
 
 Recommend extension for some amazing applications, just like Chrome, IntelliJ IDEA and so on
 
-###### Chrome_extension：
-
-| # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
-| 1 | Tampermonkey | 油猴脚本 | 9 * ⭐ |
-| 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
-| 3 | 沙拉查词 | 单词翻译插件 | 9 * ⭐ |
-| 4 | Chrono下载管理器 | 下载管理插件 | 8 * ⭐ |
-| 4 | 为什么你们就是不能加个空格呢 | 中文页面浏览优化 | 8 * ⭐ |
-| 5 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
-| 6 | Language Reactor | 字幕翻译插件 | 7 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
-
-###### IntelliJ_IDEA_plugin：
+###### IntelliJ_IDEA_plugin
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
@@ -102,13 +90,36 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 11| Chinese (Simplified) Language Pack 中文语言包 | JetBrains 官方中文语言包 | 7 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
+###### Firefox_addon
+
+| # | 名称 | 简介 | 推荐指数 |
+|---|---|---|---|
+| 1 | Tampermonkey | 油猴脚本 | 9 * ⭐ |
+| 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
+| 3 | 沙拉查词 | 单词翻译插件 | 8 * ⭐ |
+| 4 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
+|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+
+###### Chrome_extension
+
+| # | 名称 | 简介 | 推荐指数 |
+|---|---|---|---|
+| 1 | Tampermonkey | 油猴脚本 | 9 * ⭐ |
+| 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
+| 3 | 沙拉查词 | 单词翻译插件 | 8 * ⭐ |
+| 4 | Chrono下载管理器 | 下载管理插件 | 8 * ⭐ |
+| 5 | 为什么你们就是不能加个空格呢 | 中文页面浏览优化 | 8 * ⭐ |
+| 6 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
+| 7 | Language Reactor | 字幕翻译插件 | 7 * ⭐ |
+|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+
 ---
 
 #### Script
 
 Some script to deal with repeat job in a simple way
 
-###### Tampermonkey：
+###### Tampermonkey
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
