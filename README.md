@@ -93,8 +93,9 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 1 | Tampermonkey | 油猴脚本 | 9 * ⭐ |
 | 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
 | 3 | Translate Web Pages | 网页翻译插件 | 9 * ⭐ |
-| 4 | 沙拉查词 | 单词翻译插件 | 8 * ⭐ |
-| 5 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
+| 4 | Download Manager (S3) | 下载管理插件 | 9 * ⭐ |
+| 5 | 沙拉查词 | 单词翻译插件 | 8 * ⭐ |
+| 6 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### IntelliJ_IDEA_plugin
