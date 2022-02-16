@@ -138,8 +138,7 @@ Some script to deal with repeat job in a simple way
 | 3 | Open the F--king URL Right Now | 自动跳转某些网站不希望用户直达的外链 | 8 * ⭐ |
 | 4 | B站(Bilibili)搜索页面、个人主页已看视频标记 | 标记哪些视频是已经看过的 | 8 * ⭐ |
 | 5 | 片假名终结者 | 在网页中的日语外来语上方标注英文原词 | 8 * ⭐ |
-| 6 | CSDN广告完全过滤、人性化脚本 | 告别 csdn 登录弹窗 | 7 * ⭐ |
-| 7 | 知乎增强 | 告别知乎登录弹窗 | 7 * ⭐ |
+| 6 | 本地 YouTube 下载器 | 视频下方直接提供下载链接 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
