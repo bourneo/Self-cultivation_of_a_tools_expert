@@ -42,6 +42,8 @@ Recommend applications in most of all popular platform, including brief introduc
 | 2 | Visual Studio Code | 非常流行的代码编辑器 | 9 * ⭐ |
 | 3 | Git | 最受欢迎的版本控制工具 | 9 * ⭐ |
 | 4 | DataGrip | 功能强大的数据库客户端工具 | 9 * ⭐ |
+| 5 | PyCharm | Python 集成开发环境 | 9 * ⭐ |
+| 6 | GoLand | Golang 集成开发环境 | 9 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### iOS_app
@@ -190,7 +192,7 @@ Some script to deal with repeat job in a simple way
 
 - IntelliJ IDEA
 - PyCharm
-- Goland
+- GoLand
 - WebStorm
 - DataGrip
 

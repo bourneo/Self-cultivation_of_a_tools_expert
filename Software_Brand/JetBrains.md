@@ -24,11 +24,11 @@ Python 集成开发环境
 https://www.jetbrains.com/pycharm/
 ) 👈
 
-#### Goland
+#### GoLand
 
 GoLang 集成开发环境
 
-官方链接：👉 [Goland](
+官方链接：👉 [GoLand](
 https://www.jetbrains.com/go/
 ) 👈
 
