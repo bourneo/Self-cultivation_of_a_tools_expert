@@ -23,7 +23,7 @@ Windows 应用
 文件管理工具：total commands
 图片无损放大工具：Bigjpg，Photozoom
 卡片式记忆辅助工具：Anki
-简洁干净的压缩工具：Bandzip，7-zip
+简洁干净的压缩工具：Bandizip，7-zip
 PPT高效率辅助插件：iSlide
 好用的PDF编辑器：PDFescape
 英语写作语法校对：Grammarly，1Checker
@@ -68,7 +68,7 @@ PPT高效率辅助插件：iSlide
 		支持多种图床，功能强大。
 	看图工具：2345看图王
 		虽然名字土鳖，国产软件，一贯的有流氓行为。但是看图是真好用，我能忍。233333.
-	压缩软件：BandZIP播放器：Splash录屏工具：LICEcap
+	压缩软件：Bandizip播放器：Splash录屏工具：LICEcap
 		比GifCam更好用。
 	
 	IrfanView 又是一款图片浏览器。

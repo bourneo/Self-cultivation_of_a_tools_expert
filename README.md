@@ -64,7 +64,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 2 | Ditto | 剪贴板增强工具 | 9 * ⭐ |
 | 3 | Everything | 文件搜索器 | 9 * ⭐ |
 | 4 | Snipaste | 截图工具 | 9 * ⭐ |
-| 5 | Bandzip | 压缩软件 | 9 * ⭐ |
+| 5 | Bandizip | 压缩软件 | 9 * ⭐ |
 | 6 | Potplayer | 视频播放器 | 9 * ⭐ |
 | 7 | WizTree | 磁盘空间分析工具 | 9 * ⭐ |
 | 8 | Free Download Manager | 免费下载器 | 8 * ⭐ |

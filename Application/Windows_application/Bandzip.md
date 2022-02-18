@@ -1,4 +1,4 @@
-## Bandzip
+## Bandizip
 
 #### 压缩软件
 
@@ -20,9 +20,12 @@
 
 
 
+官方链接：👉 [Bandizip for Windows](
+https://www.bandisoft.com/bandizip/
+) 👈
 
 
-
+---
 
 
 
