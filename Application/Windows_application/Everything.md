@@ -12,6 +12,16 @@
 
 
 
+官方链接：👉 [Everything](
+https://www.voidtools.com/zh-cn/
+) 👈
+
+
+
+---
+
+
+
 
 
 
