@@ -60,13 +60,14 @@ Recommend applications in most of all popular platform, including brief introduc
 
 | # | 名称 | 简介 | 推荐指数 |
 |---|---|---|---|
-| 1 | Ditto | 剪贴板增强工具 | 9 * ⭐ |
-| 2 | Everything | 文件搜索器 | 9 * ⭐ |
-| 3 | Snipaste | 截图工具 | 9 * ⭐ |
-| 4 | Bandzip | 压缩软件 | 9 * ⭐ |
-| 5 | Potplayer | 视频播放器 | 9 * ⭐ |
-| 6 | WizTree | 磁盘空间分析工具 | 9 * ⭐ |
-| 7 | Free Download Manager | 免费下载器 | 8 * ⭐ |
+| 1 | Firefox | 浏览器 | 9 * ⭐ |
+| 2 | Ditto | 剪贴板增强工具 | 9 * ⭐ |
+| 3 | Everything | 文件搜索器 | 9 * ⭐ |
+| 4 | Snipaste | 截图工具 | 9 * ⭐ |
+| 5 | Bandzip | 压缩软件 | 9 * ⭐ |
+| 6 | Potplayer | 视频播放器 | 9 * ⭐ |
+| 7 | WizTree | 磁盘空间分析工具 | 9 * ⭐ |
+| 8 | Free Download Manager | 免费下载器 | 8 * ⭐ |
 |   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
