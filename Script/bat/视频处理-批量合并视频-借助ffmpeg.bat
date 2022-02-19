@@ -1,11 +1,10 @@
-rem bat结合fffmpeg批量合并视频.bat
 
 SetLocal EnableDelayedExpansion
-echo.>file-list.txt
+echo.>filename-list.txt
 for /f "delims=" %%a in ('dir /b/a-d *.webm') do (
-echo file '%cd%\%%a' >> file-list.txt
+echo file '%cd%\%%a' >> filename-list.txt
 )
-ffmpeg.exe -f concat -safe 0 -i file-list.txt -c copy out.webm
+ffmpeg.exe -f concat -safe 0 -i filename-list.txt -c copy out.webm
 pause
 
 rem 需要安装 ffmpeg
