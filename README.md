@@ -44,7 +44,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 4 | DataGrip | 功能强大的数据库客户端工具 | 9 * ⭐ |
 | 5 | PyCharm | Python 集成开发环境 | 9 * ⭐ |
 | 6 | GoLand | Golang 集成开发环境 | 9 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### iOS_app
 
@@ -54,7 +54,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 2 | ColorfulCloudsWeather-彩云天气 | 天气预报 | 9 * ⭐ |
 | 3 | 计算器-多功能科学语音计算器 | 全能计算器 | 9 * ⭐ |
 | 4 | GuideRank-盖得排行 | 消费品品牌排行榜 | 8 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### Windows_application
 
@@ -68,7 +68,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 6 | Potplayer | 视频播放器 | 9 * ⭐ |
 | 7 | WizTree | 磁盘空间分析工具 | 9 * ⭐ |
 | 8 | Free Download Manager | 免费下载器 | 8 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
 
@@ -87,7 +87,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 5 | 为什么你们就是不能加个空格呢 | 中文页面浏览优化 | 8 * ⭐ |
 | 6 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
 | 7 | Language Reactor | 字幕翻译插件 | 7 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### Firefox_addon
 
@@ -99,7 +99,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 4 | Download Manager (S3) | 下载管理插件 | 9 * ⭐ |
 | 5 | 沙拉查词 | 单词翻译插件 | 8 * ⭐ |
 | 6 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### IntelliJ_IDEA_plugin
 
@@ -116,7 +116,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 9 | Translation | 翻译工具 | 8 * ⭐ |
 | 10| CodeGlance | 代码地图插件 | 7 * ⭐ |
 | 11| Chinese (Simplified) Language Pack 中文语言包 | JetBrains 官方中文语言包 | 7 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
 
@@ -142,7 +142,7 @@ Some script to deal with repeat job in a simple way
 | 4 | B站(Bilibili)搜索页面、个人主页已看视频标记 | 标记哪些视频是已经看过的 | 8 * ⭐ |
 | 5 | 片假名终结者 | 在网页中的日语外来语上方标注英文原词 | 8 * ⭐ |
 | 6 | 本地 YouTube 下载器 | 视频下方直接提供下载链接 | 8 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
 

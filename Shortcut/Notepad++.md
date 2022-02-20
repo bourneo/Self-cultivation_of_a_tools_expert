@@ -9,7 +9,7 @@
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
 | 00 | Alt + F4 | 退出文件 | 9 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### Ctrl 组：
 
@@ -35,14 +35,14 @@
 | 17 | Ctrl + Z | 撤消 | 9 * ⭐ | 
 | 18 | Ctrl + Y | 重做 | 9 * ⭐ | 
 | 19 | Ctrl + A | 全选 | 9 * ⭐ | 
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### 功能键组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
 | 00 | F11 | 切换全屏 | 8 * ⭐ |
-|   |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
 
