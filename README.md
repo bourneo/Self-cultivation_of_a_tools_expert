@@ -37,7 +37,7 @@ Recommend applications in most of all popular platform, including brief introduc
 ###### Developer_tool
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | IntelliJ IDEA | 功能强大且体验友好的集成开发环境 | 9 * ⭐ |
 | 2 | Visual Studio Code | 非常流行的代码编辑器 | 9 * ⭐ |
 | 3 | Git | 最受欢迎的版本控制工具 | 9 * ⭐ |
@@ -49,7 +49,7 @@ Recommend applications in most of all popular platform, including brief introduc
 ###### iOS_app
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | Shortcuts-快捷指令 | 捷径 | 8 * ⭐ |
 | 2 | ColorfulCloudsWeather-彩云天气 | 天气预报 | 9 * ⭐ |
 | 3 | 计算器-多功能科学语音计算器 | 全能计算器 | 9 * ⭐ |
@@ -59,7 +59,7 @@ Recommend applications in most of all popular platform, including brief introduc
 ###### Windows_application
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | Firefox | 浏览器 | 9 * ⭐ |
 | 2 | Ditto | 剪贴板增强工具 | 9 * ⭐ |
 | 3 | Everything | 文件搜索器 | 9 * ⭐ |
@@ -79,7 +79,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 ###### Chrome_extension
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | Tampermonkey | 油猴脚本 | 9 * ⭐ |
 | 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
 | 3 | 沙拉查词 | 单词翻译插件 | 8 * ⭐ |
@@ -92,7 +92,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 ###### Firefox_addon
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | Tampermonkey | 油猴脚本 | 9 * ⭐ |
 | 2 | uBlock Origin | 广告屏蔽插件 | 9 * ⭐ |
 | 3 | Translate Web Pages | 网页翻译插件 | 9 * ⭐ |
@@ -104,7 +104,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 ###### IntelliJ_IDEA_plugin
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | Save Actions | 保存时自动格式化 | 9 * ⭐ |
 | 2 | Maven Helper | 依赖管理辅助插件 | 9 * ⭐ |
 | 3 | Alibaba Java Coding Guidelines | 阿里 Java 编码指南 | 8 * ⭐ |
@@ -112,7 +112,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 5 | String Manipulation | 字符串操作工具 | 8 * ⭐ |
 | 6 | JavaDoc | Java 注释生成插件 | 8 * ⭐ |
 | 7 | Json Parser | Json 格式化插件 | 8 * ⭐ |
-| 8 | lombok | 用注释取代样板代码 | 8 * ⭐ |
+| 8 | Lombok | 用注释取代样板代码 | 8 * ⭐ |
 | 9 | Translation | 翻译工具 | 8 * ⭐ |
 | 10| CodeGlance | 代码地图插件 | 7 * ⭐ |
 | 11| Chinese (Simplified) Language Pack 中文语言包 | JetBrains 官方中文语言包 | 7 * ⭐ |
@@ -135,7 +135,7 @@ Some script to deal with repeat job in a simple way
 ###### Tampermonkey
 
 | # | 名称 | 简介 | 推荐指数 |
-|---|---|---|---|
+| :---: | :---: | :---: | :---: |
 | 1 | HTML5视频播放器增强脚本 | 在浏览器里获得类似 Potplayer 体验的强大脚本 | 9 * ⭐ |
 | 2 | 东方永页机 | 强大的自动翻页脚本 | 9 * ⭐ |
 | 3 | Open the F--king URL Right Now | 自动跳转某些网站不希望用户直达的外链 | 8 * ⭐ |

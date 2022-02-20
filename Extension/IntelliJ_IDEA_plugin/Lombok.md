@@ -1,4 +1,4 @@
-## lombok
+## Lombok
 
 #### 用注释取代样板代码
 
@@ -12,7 +12,7 @@
 
 
 
-官方链接：👉 [lombok](
+官方链接：👉 [Lombok](
 https://plugins.jetbrains.com/plugin/6317-lombok
 ) 👈
 
