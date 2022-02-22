@@ -72,18 +72,17 @@
 | 23 | Ctrl + Shift + U | 去色 | 8 * ⭐ |
 | 24 | Ctrl + Shift + X | 液化 | 7 * ⭐ |
 | 25 | Ctrl + Enter | 把路径转换为选区 | 8 * ⭐ |
-| 26 | Ctrl + ; | 参考线 | 7 * ⭐ |
+| 26 | Ctrl + ; | **参考线 / 网格** | 7 * ⭐ |
 | 27 | Ctrl + Alt + ; | 锁定参考线 | 7 * ⭐ |
 | 28 | Ctrl + Shift + ; | 对齐 | 7 * ⭐ |
 | 29 | Ctrl + G | 图层编组 | 8 * ⭐ |
 | 30 | Ctrl + Shift + G | 取消图层编组 | 8 * ⭐ |
-| 31 | Ctrl + N | 新建画布 | 8 * ⭐ |
-| 32 | Ctrl + O | 打开文件 | 8 * ⭐ |
-| 33 | Ctrl + R | 标尺 | 7 * ⭐ |
-| 34 | Ctrl + ' | 网格 | 7 * ⭐ |
-| 35 | Ctrl + Alt + I | 图像大小 | 7 * ⭐ |
-| 36 | Ctrl + Alt + C | 画笔大小 | 7 * ⭐ |
-| 37 | Ctrl + Alt + G | 剪贴蒙版 | 7 * ⭐ |
+| 31 | Ctrl + R | 标尺 | 7 * ⭐ |
+| 32 | Ctrl + N | **新建画布** | 8 * ⭐ |
+| 33 | Ctrl + O | **打开文件** | 8 * ⭐ |
+| 34 | Ctrl + Alt + I | 图像大小 | 7 * ⭐ |
+| 35 | Ctrl + Alt + C | 画笔大小 | 7 * ⭐ |
+| 36 | Ctrl + Alt + G | 剪贴蒙版 | 7 * ⭐ |
 | |<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ###### Shift 组：
@@ -112,6 +111,13 @@
 | 03 | 空格键 + 鼠标左键拖动 | 抓手工具 | 8 * ⭐ |
 | 04 | Alt + Delete | 填充前景色 | 9 * ⭐ |
 | 05 | Ctrl + Delete | 填充背景色 | 9 * ⭐ |
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
+
+###### 自定义快捷键：
+
+| # | 按键 | 功能 | 推荐指数 |
+| :--- | :--- | :--- | :---: |
+| 00 | Ctrl + Q | **水平翻转** | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
