@@ -1,6 +1,8 @@
-## Translate Web Pages / 翻译网页
+# Translate Web Pages / 翻译网页
 
-#### 网页翻译插件
+---
+
+## 网页翻译插件
 
 推荐指数：9 * ⭐
 

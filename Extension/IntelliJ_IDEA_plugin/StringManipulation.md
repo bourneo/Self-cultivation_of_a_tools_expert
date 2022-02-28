@@ -1,6 +1,8 @@
-## String Manipulation
+# String Manipulation
 
-#### 字符串操作工具
+---
+
+## 字符串操作工具
 
 推荐指数：8 * ⭐
 

@@ -1,6 +1,8 @@
-## JavaDoc
+# JavaDoc
 
-#### Java 注释生成插件
+---
+
+## Java 注释生成插件
 
 推荐指数：8 * ⭐
 

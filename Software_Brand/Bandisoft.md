@@ -1,4 +1,4 @@
-## Bandisoft
+# Bandisoft
 
 ---
 
@@ -8,7 +8,7 @@ Country based: Republic of Korea
 
 ---
 
-#### Bandizip
+## Bandizip
 
 官方链接：👉 [Bandizip for Windows](
 https://www.bandisoft.com/bandizip/
@@ -18,19 +18,19 @@ https://www.bandisoft.com/bandizip/
 https://www.bandisoft.com/bandizip.mac/
 ) 👈
 
-#### HoneyView
+## HoneyView
 
 官方链接：👉 [HoneyView](
 https://www.bandisoft.com/honeyview/
 ) 👈
 
-#### Honeycam
+## Honeycam
 
 官方链接：👉 [Honeycam](
 https://www.bandisoft.com/honeycam/
 ) 👈
 
-#### Shutdown8
+## Shutdown8
 
 官方链接：👉 [Shutdown8](
 https://www.bandisoft.com/shutdown8/
@@ -42,7 +42,7 @@ https://www.bandisoft.com/shutdown8/
 
 ---
 
-###### Reference：
+### Reference：
 
 - [bandisoft.com](bandisoft.com/about/)
 

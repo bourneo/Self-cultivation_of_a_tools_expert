@@ -1,6 +1,8 @@
-## CheckStyle-IDEA
+# CheckStyle-IDEA
 
-#### 代码格式检查提示
+---
+
+## 代码格式检查提示
 
 推荐指数：7 * ⭐
 

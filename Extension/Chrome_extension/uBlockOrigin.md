@@ -1,6 +1,8 @@
-## uBlock Origin
+# uBlock Origin
 
-#### 广告屏蔽插件
+---
+
+## 广告屏蔽插件
 
 推荐指数：9 * ⭐
 

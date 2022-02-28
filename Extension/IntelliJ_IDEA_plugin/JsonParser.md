@@ -1,6 +1,8 @@
-## Json Parser
+# Json Parser
 
-#### Json 格式化插件
+---
+
+## Json 格式化插件
 
 推荐指数：7 * ⭐
 

@@ -1,6 +1,8 @@
-## PyCharm
+# PyCharm
 
-#### Python 集成开发环境
+---
+
+## Python 集成开发环境
 
 推荐指数：9 * ⭐
 

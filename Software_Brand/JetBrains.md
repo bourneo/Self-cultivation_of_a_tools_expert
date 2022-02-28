@@ -1,4 +1,4 @@
-## JetBrains
+# JetBrains
 
 ---
 
@@ -8,7 +8,7 @@ Country based: Czech
 
 ---
 
-#### IntelliJ IDEA
+## IntelliJ IDEA
 
 Java 集成开发环境；丰富的插件，支持多种编程语言
 
@@ -16,7 +16,7 @@ Java 集成开发环境；丰富的插件，支持多种编程语言
 https://www.jetbrains.com/idea/
 ) 👈
 
-#### PyCharm
+## PyCharm
 
 Python 集成开发环境
 
@@ -24,7 +24,7 @@ Python 集成开发环境
 https://www.jetbrains.com/pycharm/
 ) 👈
 
-#### GoLand
+## GoLand
 
 GoLang 集成开发环境
 
@@ -32,7 +32,7 @@ GoLang 集成开发环境
 https://www.jetbrains.com/go/
 ) 👈
 
-#### WebStorm
+## WebStorm
 
 前端开发工具
 
@@ -40,7 +40,7 @@ https://www.jetbrains.com/go/
 https://www.jetbrains.com/webstorm/
 ) 👈
 
-#### DataGrip
+## DataGrip
 
 数据库客户端
 
@@ -51,7 +51,7 @@ https://www.jetbrains.com/datagrip/
 
 ---
 
-###### Reference：
+### Reference：
 
 - [jetbrains.com](https://www.jetbrains.com/company/)
 

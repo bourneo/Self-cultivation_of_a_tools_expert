@@ -1,8 +1,10 @@
-## Self-cultivation of a tools expert / 一位工具达人的自我修养
+# Self-cultivation of a tools expert / 一位工具达人的自我修养
 
 ---
 
-#### Content / 目录
+## Content / 目录
+
+---
 
 1. [Application](#Application)
     - [Developer_tool](#Developer_tool)
@@ -30,11 +32,13 @@
 
 ---
 
-#### Application
+## Application
+
+---
 
 Recommend applications in most of all popular platform, including brief introduction in Chinese
 
-###### Developer_tool
+### Developer_tool
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -46,7 +50,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 6 | GoLand | Golang 集成开发环境 | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### iOS_app
+### iOS_app
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -56,7 +60,7 @@ Recommend applications in most of all popular platform, including brief introduc
 | 4 | GuideRank-盖得排行 | 消费品品牌排行榜 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Windows_application
+### Windows_application
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -72,11 +76,15 @@ Recommend applications in most of all popular platform, including brief introduc
 
 ---
 
-#### Extension
+## Extension
+
+---
+
+
 
 Recommend extension for some amazing applications, just like Chrome, IntelliJ IDEA and so on
 
-###### Chrome_extension
+### Chrome_extension
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -89,7 +97,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 7 | Language Reactor | 字幕翻译插件 | 7 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Firefox_addon
+### Firefox_addon
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -101,7 +109,7 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 | 6 | 购物党自动比价工具 | 商品历史价格查询 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### IntelliJ_IDEA_plugin
+### IntelliJ_IDEA_plugin
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -120,19 +128,22 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 
 ---
 
-#### Script
+## Script
+
+---
+
 
 Some script to deal with repeat job in a simple way
 
-###### bat
+### bat
 
 [bat](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/bat)
 
-###### ffmpeg
+### ffmpeg
 
 [ffmpeg](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/ffmpeg/_ffmpeg.md)
 
-###### Tampermonkey
+### Tampermonkey
 
 | # | 名称 | 简介 | 推荐指数 |
 | :---: | :---: | :---: | :---: |
@@ -146,50 +157,55 @@ Some script to deal with repeat job in a simple way
 
 ---
 
-#### Shortcut
+## Shortcut
+
+---
+
 
 Some script to deal with repeat job in a simple way
 
-###### Chrome
+### Chrome
 
 [Chrome-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Chrome.md)
 
-###### IntelliJ-IDEA
+### IntelliJ-IDEA
 
 [IntelliJ-IDEA](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/IntelliJ-IDEA.md)
 
-###### Windows
+### Windows
 
 [Windows](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Windows.md)
 
-###### Word
+### Word
 
 [Word](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Shortcut/Word.md)
 
 
 ---
 
-#### Software_Brand
+## Software_Brand
 
-###### AntibodySoftware
+---
+
+### AntibodySoftware
 
 - WizTree
 - WizFile
 - WizMouse
 
-###### Bandisoft
+### Bandisoft
 
 - Bandizip
 - HoneyView
 - Honeycam
 - Shutdown8
 
-###### Bandicam
+### Bandicam
 
 - Bandicam
 - Bandicut
 
-###### JetBrains
+### JetBrains
 
 - IntelliJ IDEA
 - PyCharm
@@ -199,7 +215,10 @@ Some script to deal with repeat job in a simple way
 
 ---
 
-#### Website
+## Website
+
+---
+
 
 [Website](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Website/Website.md)
 

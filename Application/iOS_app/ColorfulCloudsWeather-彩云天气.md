@@ -1,6 +1,8 @@
-## ColorfulCloudsWeather / 彩云天气
+# ColorfulCloudsWeather / 彩云天气
 
-#### 天气预报
+---
+
+## 天气预报
 
 推荐指数：9 * ⭐
 

@@ -1,6 +1,8 @@
-## Visual Studio Code
+# Visual Studio Code
 
-#### 非常流行的代码编辑器
+---
+
+## 非常流行的代码编辑器
 
 推荐指数：9 * ⭐
 

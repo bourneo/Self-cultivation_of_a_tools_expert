@@ -1,6 +1,8 @@
-## Alibaba Java Coding Guidelines
+# Alibaba Java Coding Guidelines
 
-#### 阿里 Java 编码指南
+---
+
+## 阿里 Java 编码指南
 
 推荐指数：8 * ⭐
 

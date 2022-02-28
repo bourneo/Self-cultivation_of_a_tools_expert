@@ -1,17 +1,19 @@
-## Word
+# Word
 
 ---
 
-#### Shortcut
+## Shortcut
 
-###### Alt 组：
+---
+
+### Alt 组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
 | 1 | Alt + Q | 操作说明查找 | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Ctrl 组：
+### Ctrl 组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
@@ -33,14 +35,14 @@
 | 16| Ctrl + Shift + F9 | 清除文档中的超级链接 | 7 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Shift 组：
+### Shift 组：
 
 | Shift | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
 | 1 | Shift + F3 | **大小写转换** | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### 功能键组：
+### 功能键组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |

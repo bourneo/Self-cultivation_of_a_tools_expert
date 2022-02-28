@@ -1,6 +1,8 @@
-## Bilibili-Evolved
+# Bilibili-Evolved
 
-#### 强大的哔哩哔哩增强脚本
+---
+
+## 强大的哔哩哔哩增强脚本
 
 推荐指数：8 * ⭐
 

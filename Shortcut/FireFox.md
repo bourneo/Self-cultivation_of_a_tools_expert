@@ -1,20 +1,24 @@
-## FireFox
+# FireFox
 
 ---
 
 FireFox 快捷键和 Chrome 大同小异
 
-#### Shortcut
+---
 
-###### Alt 组：
+## Shortcut
+
+---
+
+### Alt 组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
 | 00 | Alt + F4 | 关闭浏览器窗口 | 8 * ⭐ |
-| 01 | Alt + 方向键（左右） | **浏览记录中的上一个页面 / 下一个页面** | 9 * ⭐ |
+| 01 | Alt + 方向键（左 / 右） | **浏览记录中的上一个页面 / 下一个页面** | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Ctrl 组：
+### Ctrl 组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
@@ -38,14 +42,14 @@ FireFox 快捷键和 Chrome 大同小异
 | 17 | Ctrl + Shift + H | **我的足迹窗口（历史）** | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### Shift 组：
+### Shift 组：
 
 | Shift | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |
 | 00 | Shift + 鼠标滚轮 | 网页水平滚动 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
-###### 功能键组：
+### 功能键组：
 
 | # | 按键 | 功能 | 推荐指数 |
 | :--- | :--- | :--- | :---: |

@@ -1,6 +1,8 @@
-## Genymotion
+# Genymotion
 
-#### Android 模拟器
+---
+
+## Android 模拟器
 
 推荐指数：9 * ⭐
 
@@ -12,6 +14,8 @@
 https://plugins.jetbrains.com/plugin/7269-genymotion
 ) 👈
 
+
+---
 
 
 

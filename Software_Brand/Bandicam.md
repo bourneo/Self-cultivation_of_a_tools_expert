@@ -1,4 +1,4 @@
-## Bandicam
+# Bandicam
 
 ---
 
@@ -8,7 +8,7 @@ Country based: Republic of Korea
 
 ---
 
-#### Bandicam 班迪录屏
+## Bandicam 班迪录屏
 
 录屏工具
 
@@ -16,7 +16,7 @@ Country based: Republic of Korea
 https://www.bandicam.com/free-screen-recorder/
 ) 👈
 
-#### Bandicut 班迪剪辑
+## Bandicut 班迪剪辑
 
 视频剪辑工具
 
@@ -28,7 +28,7 @@ https://www.bandicam.com/bandicut-video-cutter/download/
 
 ---
 
-###### Reference：
+### Reference：
 
 - [bandicam.com](https://www.bandicam.com/company/)
 

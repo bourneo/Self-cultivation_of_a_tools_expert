@@ -1,6 +1,8 @@
-## google-java-format
+# google-java-format
 
-#### 谷歌 Java 格式化插件
+---
+
+## 谷歌 Java 格式化插件
 
 推荐指数：8 * ⭐
 

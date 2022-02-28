@@ -1,6 +1,8 @@
-## Language Reactor
+# Language Reactor
 
-#### 字幕翻译插件
+---
+
+## 字幕翻译插件
 
 推荐指数：7 * ⭐
 

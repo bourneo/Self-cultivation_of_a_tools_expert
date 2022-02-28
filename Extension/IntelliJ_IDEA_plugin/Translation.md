@@ -1,6 +1,8 @@
-## Translation
+# Translation
 
-#### 翻译工具
+---
+
+## 翻译工具
 
 推荐指数：8 * ⭐
 

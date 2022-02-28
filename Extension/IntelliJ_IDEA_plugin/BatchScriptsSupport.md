@@ -1,6 +1,8 @@
-## Batch Scripts Support
+# Batch Scripts Support
 
-#### 批处理脚本辅助插件
+---
+
+## 批处理脚本辅助插件
 
 推荐指数：7 * ⭐
 

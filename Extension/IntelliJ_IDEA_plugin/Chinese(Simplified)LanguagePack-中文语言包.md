@@ -1,6 +1,8 @@
-## Chinese (Simplified) Language Pack 中文语言包
+# Chinese (Simplified) Language Pack 中文语言包
 
-#### JetBrains 官方中文语言包
+---
+
+## JetBrains 官方中文语言包
 
 推荐指数：7 * ⭐
 

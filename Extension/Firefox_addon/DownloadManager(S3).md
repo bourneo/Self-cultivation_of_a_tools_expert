@@ -1,6 +1,8 @@
-## Download Manager (S3)
+# Download Manager (S3)
 
-#### 下载管理插件
+---
+
+## 下载管理插件
 
 推荐指数：9 * ⭐
 
