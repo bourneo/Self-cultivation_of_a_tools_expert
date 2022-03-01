@@ -38,6 +38,8 @@
 
 Recommend applications in most of all popular platform, including brief introduction in Chinese
 
+---
+
 ### Developer_tool
 
 | # | 名称 | 简介 | 推荐指数 |
@@ -80,9 +82,9 @@ Recommend applications in most of all popular platform, including brief introduc
 
 ---
 
-
-
 Recommend extension for some amazing applications, just like Chrome, IntelliJ IDEA and so on
+
+---
 
 ### Chrome_extension
 
@@ -132,7 +134,6 @@ Recommend extension for some amazing applications, just like Chrome, IntelliJ ID
 
 ---
 
-
 Some script to deal with repeat job in a simple way
 
 ### bat
@@ -150,9 +151,10 @@ Some script to deal with repeat job in a simple way
 | 1 | HTML5视频播放器增强脚本 | 在浏览器里获得类似 Potplayer 体验的强大脚本 | 9 * ⭐ |
 | 2 | 东方永页机 | 强大的自动翻页脚本 | 9 * ⭐ |
 | 3 | Open the F--king URL Right Now | 自动跳转某些网站不希望用户直达的外链 | 8 * ⭐ |
-| 4 | B站(Bilibili)搜索页面、个人主页已看视频标记 | 标记哪些视频是已经看过的 | 8 * ⭐ |
-| 5 | 片假名终结者 | 在网页中的日语外来语上方标注英文原词 | 8 * ⭐ |
-| 6 | 本地 YouTube 下载器 | 视频下方直接提供下载链接 | 8 * ⭐ |
+| 4 | 片假名终结者 | 在网页中的日语外来语上方标注英文原词 | 8 * ⭐ |
+| 5 | B站(Bilibili)搜索页面、个人主页已看视频标记 | 标记哪些视频是已经看过的 | 8 * ⭐ |
+| 6 | Bilibili-Evolved | 强大的哔哩哔哩增强脚本 | 8 * ⭐ |
+| 7 | 隐藏油管视频结尾的推荐 | 隐藏 Youtube 视频结尾遮挡画面的相关推荐图片 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
@@ -161,8 +163,9 @@ Some script to deal with repeat job in a simple way
 
 ---
 
-
 Some script to deal with repeat job in a simple way
+
+---
 
 ### Chrome
 
