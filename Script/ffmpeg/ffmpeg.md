@@ -36,6 +36,7 @@ ffmpeg {全局参数} {输入文件参数} -i {输入文件} {输出文件参数
 | -vn | 去除视频流 | video not |
 | -an | 去除音频流 | audio not |
 | -ar | 设置音频码率 | audio rate |
+| -ac | 设置声道数 | 1：单声道；2：立体声；转换单声道的 TVrip 可以用 1（节省一半容量） |
 | -vframes | 设置要输出的视频帧数 | 相当于 -filter:v |
 |<img width=300px/>|<img width=500px/>|<img width=400px/>|
 
@@ -111,6 +112,16 @@ ffmpeg -i 漠河舞厅.mp4 -acodec copy -vn output1.m4a
 ffmpeg -i 漠河舞厅.mp4 -acodec copy -vn output1.aac
 ```
 
+提取 wav 格式：
+
+```
+ffmpeg -i 漠河舞厅.mp4 -ac 1 -ar 16000 -f wav output1.wav
+```
+
+```
+ffmpeg -i 漠河舞厅.mp4 -acodec pcm_s16le -f s16le -ac 1 -ar 16000 -f wav output1.wav
+```
+
 ###
 
 ###
@@ -121,6 +132,17 @@ ffmpeg -i 漠河舞厅.mp4 -acodec copy -vn output1.aac
 
 ---
 
+
+---
+
+
+---
+
+参考链接：
+
+- [ffmpeg Documentation](https://ffmpeg.org/ffmpeg.html)
+- [ffmpeg 命令详解](https://www.cnblogs.com/vicowong/archive/2011/03/08/1977088.html)
+- []()
 
 ---
 
