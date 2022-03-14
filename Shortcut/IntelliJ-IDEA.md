@@ -35,6 +35,9 @@
 | 10 | Ctrl + Alt + S | **打开设置** | 9 * ⭐ |
 | 11 | Ctrl + Shift + 方向键（上 / 下）| 向上移动行 / 向下移动行 | 9 * ⭐ |
 | 12 | Ctrl + Alt + 方向键（左 / 右）| 光标前进 / 光标后退 | 9 * ⭐ |
+| 13 | Ctrl + U | 跳转到父类实现 | 9 * ⭐ |
+| 14 | Ctrl + Alt + B | 跳转到子类实现 | 9 * ⭐ |
+| 15 | Ctrl + B | 跳转到定义或调用处 | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ### Shift 组：
@@ -59,6 +62,9 @@
 | 00 | F8 | **跳出** | 9 * ⭐ |
 | 01 | Shift + F8 | **跳入** | 9 * ⭐ |
 | 02 | F9 | **全部放行** | 9 * ⭐ |
+| 03 | Ctrl + F8 | 设置断点 / 取消断点 | 9 * ⭐ |
+| 04 | Shift + F9  | debug | 9 * ⭐ |
+| 05 | Shift + F10  | 运行 | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ### 自定义快捷键：
