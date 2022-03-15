@@ -50,13 +50,13 @@ ffmpeg {全局参数} {输入文件参数} -i {输入文件} {输出文件参数
 
 ```
 // ffmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差
-ffmpeg -ss 00:02:25 -i 漠河舞厅.mp4 -to 00:05:34 -c copy output1.mp4
+ffmpeg -i 漠河舞厅.mp4 -ss 00:02:25 -to 00:05:34 -c copy output1.mp4
 ```
 
 ### 音频截取
 
 ```
-ffmpeg -ss 00:02:24.5 -i 漠河舞厅.mp3 -to 00:05:38 -c copy output1.mp3
+ffmpeg -i 漠河舞厅.mp3 -ss 00:02:24.5 -to 00:05:38 -c copy output1.mp3
 ```
 
 ### 音频转视频（加封面）
