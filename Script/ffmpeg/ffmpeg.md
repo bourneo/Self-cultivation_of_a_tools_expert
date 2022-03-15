@@ -37,12 +37,12 @@ ffmpeg {全局参数} {输入文件参数} -i {输入文件} {输出文件参数
 | -an | 去除音频流 | audio not |
 | -ar | 设置音频码率 | audio rate |
 | -ac | 设置声道数 | 1：单声道；2：立体声；转换单声道的 TVrip 可以用 1（节省一半容量） |
-| -vframes | 设置要输出的视频帧数 | 相当于 -filter:v |
+| -frames:v | 设置要输出的视频帧数 | 缩写：-vframes；相当于 -filter:v |
 |<img width=300px/>|<img width=500px/>|<img width=400px/>|
 
 ---
 
-## ffmpeg 使用实例
+## ffmpeg 使用实例——截取操作
 
 ---
 
@@ -53,32 +53,26 @@ ffmpeg {全局参数} {输入文件参数} -i {输入文件} {输出文件参数
 ffmpeg -i 漠河舞厅.mp4 -ss 00:02:25 -to 00:05:34 -c copy output1.mp4
 ```
 
+```
+// ffmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差
+ffmpeg -i 漠河舞厅.mp4 -ss 00:02:25 -t 00:02:00 -c copy output2.mp4
+```
+
 ### 音频截取
 
 ```
 ffmpeg -i 漠河舞厅.mp3 -ss 00:02:24.5 -to 00:05:38 -c copy output1.mp3
 ```
 
-### 音频转视频（加封面）
-
 ```
-ffmpeg -loop 1 -i 漠河舞厅.jpg -i 漠河舞厅.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output1.mp4
+ffmpeg -i 漠河舞厅.mp3 -ss 00:02:24.5 -t 00:02:00 -c copy output2.mp3
 ```
 
-### 视频加字幕
+---
 
-加硬字幕：
+## ffmpeg 使用实例——提取操作
 
-```
-// 直接复制音频可以防止音频压缩
-ffmpeg -i 漠河舞厅.mp4 -vf subtitles=漠河舞厅.ass -c:a copy output1.mp4
-```
-
-加软字幕：
-
-```
-ffmpeg -i 漠河舞厅.mp4 -i 漠河舞厅.ass -c copy -c:s mov_text output2.mp4
-```
+---
 
 ### 从视频提取音频
 
@@ -122,9 +116,44 @@ ffmpeg -i 漠河舞厅.mp4 -ac 1 -ar 16000 -f wav output1.wav
 ffmpeg -i 漠河舞厅.mp4 -acodec pcm_s16le -f s16le -ac 1 -ar 16000 -f wav output1.wav
 ```
 
-###
+### 视频提取的某一帧
 
-###
+```
+ffmpeg -i 漠河舞厅.mp4 -ss 00:00:01 -frames:v 1 output1.png
+```
+
+---
+
+## ffmpeg 使用实例——添加操作
+
+---
+
+### 音频和图片合在一起，转成视频
+
+```
+ffmpeg -loop 1 -i 漠河舞厅.jpg -i 漠河舞厅.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output1.mp4
+```
+
+### 视频加字幕
+
+加硬字幕：
+
+```
+// 直接复制音频可以防止音频压缩
+ffmpeg -i 漠河舞厅.mp4 -vf subtitles=漠河舞厅.ass -c:a copy output1.mp4
+```
+
+加软字幕：
+
+```
+ffmpeg -i 漠河舞厅.mp4 -i 漠河舞厅.ass -c copy -c:s mov_text output2.mp4
+```
+
+### 视频加封面
+
+```
+ffmpeg -i 漠河舞厅.mp4 -i output1.png -map 0 -map 1 -c copy -c:v:1 png -disposition:v:1 attached_pic output1.mp4
+```
 
 ###
 
@@ -140,7 +169,7 @@ ffmpeg -i 漠河舞厅.mp4 -acodec pcm_s16le -f s16le -ac 1 -ar 16000 -f wav out
 
 参考链接：
 
-- [ffmpeg Documentation](https://ffmpeg.org/ffmpeg.html)
+- [ffmpeg 官方英文文档](https://ffmpeg.org/ffmpeg.html)
 - [ffmpeg 命令详解](https://www.cnblogs.com/vicowong/archive/2011/03/08/1977088.html)
 - []()
 
