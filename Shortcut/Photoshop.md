@@ -32,7 +32,7 @@
 | 19 | S | 仿制图章 | 8 * ⭐ |
 | 20 | Y | 历史记录画笔 | 8 * ⭐ |
 | 21 | J | 污点修复画笔 | 9 * ⭐ |
-|  |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ### Alt 组：
 
@@ -85,7 +85,7 @@
 | 34 | Ctrl + Alt + I | 图像大小 | 7 * ⭐ |
 | 35 | Ctrl + Alt + C | 画笔大小 | 7 * ⭐ |
 | 36 | Ctrl + Alt + G | 剪贴蒙版 | 7 * ⭐ |
-| |<img width=400px/>|<img width=500px/>|<img width=100px/>|
+|<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ### Shift 组：
 

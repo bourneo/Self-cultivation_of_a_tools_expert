@@ -1,4 +1,4 @@
-# Self-cultivation of a tools expert / 一位工具达人的自我修养
+# Self-cultivation of a tools expert / 工具达人的自我修养
 
 ---
 
