@@ -16,7 +16,7 @@
     - [IntelliJ_IDEA_plugin](#IntelliJ_IDEA_plugin)
 - [Script](#Script)
     - [bat](#bat)
-    - [ffmpeg](#ffmpeg)
+    - [FFmpeg](#FFmpeg)
     - [Tampermonkey](#Tampermonkey)
 - [Shortcut](#Shortcut)
     - [Chrome](#Chrome)
@@ -140,9 +140,9 @@ Some script to deal with repeat job in a simple way
 
 [bat](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/bat)
 
-### ffmpeg
+### FFmpeg
 
-[ffmpeg](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/ffmpeg/_ffmpeg.md)
+[FFmpeg](https://github.com/bourneo/self-cultivation-of-a-tools-expert/blob/master/Script/ffmpeg/_ffmpeg.md)
 
 ### Tampermonkey
 

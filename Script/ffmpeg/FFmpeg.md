@@ -1,8 +1,8 @@
-# ffmpeg 视频音频处理
+# FFmpeg 视频音频处理
 
 ---
 
-## ffmpeg 精要
+## FFmpeg 精要
 
 ---
 
@@ -42,19 +42,19 @@ ffmpeg {全局参数} {输入文件参数} -i {输入文件} {输出文件参数
 
 ---
 
-## ffmpeg 使用实例——截取操作
+## FFmpeg 使用实例——截取操作
 
 ---
 
 ### 视频截取
 
 ```
-// ffmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差
+// FFmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差
 ffmpeg -i 漠河舞厅.mp4 -ss 00:02:25 -to 00:05:34 -c copy output1.mp4
 ```
 
 ```
-// ffmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差
+// FFmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差
 ffmpeg -i 漠河舞厅.mp4 -ss 00:02:25 -t 00:02:00 -c copy output2.mp4
 ```
 
@@ -70,7 +70,7 @@ ffmpeg -i 漠河舞厅.mp3 -ss 00:02:24.5 -t 00:02:00 -c copy output2.mp3
 
 ---
 
-## ffmpeg 使用实例——提取操作
+## FFmpeg 使用实例——提取操作
 
 ---
 
@@ -122,9 +122,19 @@ ffmpeg -i 漠河舞厅.mp4 -acodec pcm_s16le -f s16le -ac 1 -ar 16000 -f wav out
 ffmpeg -i 漠河舞厅.mp4 -ss 00:00:01 -frames:v 1 output1.png
 ```
 
+### 视频提取封面
+
+```
+ffmpeg -i 漠河舞厅.mp4 -map 0:v -map -0:V -c copy cover.png
+```
+
+如果报错信息是：Output file #0 does not contain any stream，说明视频未附有封面。
+
+在文件浏览器看到的封面，只是解码器读到的关键帧缩略图，提取封面就是提取那一帧。
+
 ---
 
-## ffmpeg 使用实例——添加操作
+## FFmpeg 使用实例——添加操作
 
 ---
 
@@ -169,8 +179,8 @@ ffmpeg -i 漠河舞厅.mp4 -i output1.png -map 0 -map 1 -c copy -c:v:1 png -disp
 
 参考链接：
 
-- [ffmpeg 官方英文文档](https://ffmpeg.org/ffmpeg.html)
-- [ffmpeg 命令详解](https://www.cnblogs.com/vicowong/archive/2011/03/08/1977088.html)
+- [FFmpeg 官方英文文档](https://ffmpeg.org/ffmpeg.html)
+- [FFmpeg 命令详解](https://www.cnblogs.com/vicowong/archive/2011/03/08/1977088.html)
 - []()
 
 ---
