@@ -27,6 +27,15 @@ Where the world builds software
 Millions of developers and companies build, ship, and maintain their software on GitHub—the largest
 and most advanced development platform in the world.
 
+### [wikihow.com](https://www.wikihow.com)
+
+A for-profit company focused on creating a global public good in accordance with the mission.
+
+wikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in
+the world how to do anything.
+
+
+
 ---
 
 ## Non-profit
