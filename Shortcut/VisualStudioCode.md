@@ -68,6 +68,7 @@
 | 02 | Shift + F8 | 转到上一个错误或警告  | 9 * ⭐ |
 | 03 | F3 | 查找下一个 | 9 * ⭐ |
 | 04 | Shift + F3 | 查找上一个  | 9 * ⭐ |
+| 05 | F2 | 重命名  | 9 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ### debug 组：
