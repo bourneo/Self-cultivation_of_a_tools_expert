@@ -202,49 +202,59 @@ ffmpeg -i input-1.mp4 -i input-1.png -map 0 -map 1 -c copy -c:v:1 png -dispositi
 ffmpeg -i input-1.iso -preset superfast -vf yadif -crf 18 output-1.mp4
 ```
 
-### vob 格式转 mp4
-
-```
-ffmpeg -i input-1.vob output-1.mp4
-```
-
-```
-ffmpeg -i input-1.vob -vcodec libx265 output-2.mp4
-```
-
-```
-ffmpeg -i input-1.vob -c:v libx264 -crf 10 -vf "yadif; scale=1620:1080" -c:a aac -b:a 448k -metadata
-title="Movie name" output-3.mp4
-```
-
-```
-ffmpeg -i input-1.vob -c:a aac -aq 100 -c:v libx264 -c:s mov_text \
--map 0:1 -map 0:2 -map 0:3  \
--movflags +faststart -vb 1000k -maxrate 1500k -bufsize 500k \
-output-4.mp4
-```
-
-```
-ffmpeg -i input-1.vob -acodec libfaac -vcodec mpeg4 -b 1200k -mbd 2 -flags+mv4+aic -trellis 2 -cmp 2 -subcmp 2 -metadata title=X output-5.mp4
-```
-
-```
-ffmpeg -i input-1.vob -preset superfast -crf 18 output-6.mp4
-```
-
 ### vob 格式转 mkv
 
 ```
-ffmpeg -i input-1.vob -preset superfast -crf 21 \
--c:a ac3 \
--c:s copy \
--map 0:1 -map 0:2 -map 0:3 -map 0:4 -map 0:5 \
-output-1.mkv
+ffmpeg -i input-1.vob -preset superfast -crf 18 -c:a ac3 -c:s copy -map 0:1 -map 0:2 output-1.mkv
 ```
 
 > -c:a 是 -codec:a 的简写，冒号后面的 a 是 audio 音频的简写，s 是 subtitle 的简写。
 >
 > 这个参数用来指定视频、音频、字幕所采用的编码器，copy 表示沿用源视频的编码器。
+>
+> 0:0 是 DVD 的菜单，0:1 是视频部分，0:2 和 0:3 是音频部分，0:4 和 0:5 是字幕。
+
+### vob 格式转 mp4
+
+```
+// 码率 2000，推荐
+ffmpeg -i input-1.vob -preset superfast -crf 18 -c:a aac output-1.mp4
+```
+
+```
+// 码率 1500，速度太慢
+ffmpeg -i input-1.vob -c:v libx264 -crf 18 -vf yadif -c:a aac -b:a 448k output-2.mp4
+```
+
+```
+// 码率 1000
+ffmpeg -i input-1.vob -preset superfast -crf 23 -c:a aac output-3.mp4
+```
+
+```
+// 码率 1000
+ffmpeg -i input-1.vob -c:a aac -aq 100 -c:v libx264 -c:s mov_text -map 0:1 -map 0:2 -movflags +faststart -vb 1000k -maxrate 1500k -bufsize 500k output-4.mp4
+```
+
+```
+// 码率 800
+ffmpeg -i input-1.vob output-5.mp4
+```
+
+```
+// 码率 500
+ffmpeg -i input-1.vob -preset superfast -crf 28 output-6.mp4
+```
+
+```
+// 码率 400
+ffmpeg -i input-1.vob -vcodec mpeg4 -b:a 1200k -mbd 2 -flags +mv4 -trellis 2 -cmp 2 -subcmp 2 -metadata title=output output-7.mp4
+```
+
+```
+// 码率 300，分辨率改变
+ffmpeg -i input-1.vob -vcodec libx265 output-8.mp4
+```
 
 ---
 
