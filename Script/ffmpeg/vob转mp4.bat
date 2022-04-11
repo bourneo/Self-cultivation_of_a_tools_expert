@@ -24,7 +24,7 @@ REM Store the name of the folder
 for %%I in (.) do set CurrDirName=%%~nxI
 
 REM Convert that single vob into mp4
-ffmpeg -loglevel warning -i "output-1.vob" -codec:a copy -codec:v libx264 "%CurrDirName%.mp4"
+ffmpeg -i "output-1.vob" -preset superfast -crf 18 -c:a copy "%CurrDirName%.mp4"
 
 REM I run into an issue with one DVD where audio was encoded with pcm_dvd
 REM which is not supported by x264

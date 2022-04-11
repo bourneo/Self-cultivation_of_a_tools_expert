@@ -162,12 +162,6 @@ ffmpeg -i input-1.mp4 -map 0:v -map -0:V -c copy output-1.png
 
 ---
 
-### 音频和图片合在一起，转成视频
-
-```
-ffmpeg -loop 1 -i input-1.jpg -i input-1.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output-1.mp4
-```
-
 ### 视频硬加字幕
 
 ```
@@ -218,17 +212,17 @@ ffmpeg -i input-1.vob -preset superfast -crf 18 -c:a ac3 -c:s copy -map 0:1 -map
 
 ```
 // 码率 2000，推荐
-ffmpeg -i input-1.vob -preset superfast -crf 18 -c:a aac output-1.mp4
+ffmpeg -i input-1.vob -preset superfast -crf 18 -c:a copy -map 0:1 -map 0:2 output-1.mp4
 ```
 
 ```
 // 码率 1500，速度太慢
-ffmpeg -i input-1.vob -c:v libx264 -crf 18 -vf yadif -c:a aac -b:a 448k output-2.mp4
+ffmpeg -i input-1.vob -c:v libx264 -crf 18 -vf yadif -c:a ac3 -b:a 448k output-2.mp4
 ```
 
 ```
 // 码率 1000
-ffmpeg -i input-1.vob -preset superfast -crf 23 -c:a aac output-3.mp4
+ffmpeg -i output-1.vob -c:a copy -codec:v libx264 output-3.mp4
 ```
 
 ```
@@ -243,7 +237,7 @@ ffmpeg -i input-1.vob output-5.mp4
 
 ```
 // 码率 500
-ffmpeg -i input-1.vob -preset superfast -crf 28 output-6.mp4
+ffmpeg -i input-1.vob -preset superfast -crf 28 -c:a ac3 output-6.mp4
 ```
 
 ```
@@ -258,6 +252,32 @@ ffmpeg -i input-1.vob -vcodec libx265 output-8.mp4
 
 ---
 
+---
+
+## FFmpeg 使用实例——合并操作
+
+---
+
+### 无损合并 mp4
+
+```
+// batch
+(echo file 'input-1.mp4' & echo file 'input-2.mp4')>input-1.txt
+ffmpeg -safe 0 -f concat -i input-1.txt -c copy output-2.mp4
+```
+
+```
+// 转成 ts 再合并
+ffmpeg -i input-1.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 1.ts
+ffmpeg -i input-2.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 2.ts
+ffmpeg -i "concat:1.ts|2.ts" -c copy output.mp4
+```
+
+### 音频和图片合并，转成视频
+
+```
+ffmpeg -loop 1 -i input-1.jpg -i input-1.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output-1.mp4
+```
 
 ---
 
