@@ -73,7 +73,8 @@ Recommend applications in most of all popular platform, including brief introduc
 | 04 | Bandizip | 压缩软件 | 9 * ⭐ |
 | 05 | Potplayer | 视频播放器 | 9 * ⭐ |
 | 06 | WizTree | 磁盘空间分析工具 | 9 * ⭐ |
-| 07 | Free Download Manager | 免费下载器 | 8 * ⭐ |
+| 07 | Geek Uninstaller | 卸载软件 | 9 * ⭐ |
+| 08 | Free Download Manager | 免费下载器 | 8 * ⭐ |
 |<img width=50px/>|<img width=400px/>|<img width=500px/>|<img width=100px/>|
 
 ---
