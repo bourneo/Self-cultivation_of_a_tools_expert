@@ -261,7 +261,6 @@ ffmpeg -i input-1.vob -vcodec libx265 output-8.mp4
 ### 无损合并 mp4
 
 ```
-// batch
 (echo file 'input-1.mp4' & echo file 'input-2.mp4')>input-1.txt
 ffmpeg -safe 0 -f concat -i input-1.txt -c copy output-2.mp4
 ```
@@ -271,6 +270,18 @@ ffmpeg -safe 0 -f concat -i input-1.txt -c copy output-2.mp4
 ffmpeg -i input-1.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 1.ts
 ffmpeg -i input-2.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb 2.ts
 ffmpeg -i "concat:1.ts|2.ts" -c copy output.mp4
+```
+
+```
+// 批量合并文件夹下的 mp4
+(for %i in (*.mp4) do @echo file '%i') > list.txt
+ffmpeg -f concat -safe 0 -i list.txt -c copy -y output.mp4
+```
+
+```
+// 批量合并文件夹下的 mp4，包含隐藏文件
+for /f "delims=" %a in ('dir /b/a-d *.mp4') do (echo file '%cd%\%a' >> list.txt)
+ffmpeg -f concat -safe 0 -i list.txt -c copy -y output.mp4
 ```
 
 ### 音频和图片合并，转成视频
