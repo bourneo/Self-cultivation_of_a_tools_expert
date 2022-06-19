@@ -72,8 +72,6 @@ ffmpeg -i input-1.mp4 -ss 00:02:25 -to 00:05:34 -c copy output-1.mp4
 ffmpeg -i input-1.mp4 -ss 00:02:25 -t 00:02:00 -c copy output-2.mp4
 ```
 
-备注：
-
 > FFmpeg 截视频默认采用关键帧，所以输出的时间和设置的时间，可能有若干秒的误差。
 
 ### 音频截取
@@ -105,6 +103,7 @@ ffmpeg -i input-1.mp4 -f mp3 -vn output-2.mp3
 ```
 
 ```
+// 推荐
 ffmpeg -i input-1.mp4 output-3.mp3
 ```
 
@@ -137,24 +136,22 @@ ffmpeg -i input-1.mp4 -acodec pcm_s16le -f s16le -ac 1 -ar 16000 -f wav output-2
 ### 视频提取的某一帧
 
 ```
+// 推荐
 ffmpeg -i input-1.mp4 -ss 00:00:01 -frames:v 1 output-1.png
 ```
 
-备注：
-
-> 如果时间不靠前，提取速度会比较慢。这时直接用 PotPlayer 的图像截取会更快。
+> 如果时间戳不靠前，提取速度会比较慢。这时直接用 PotPlayer 的图像截取会更快。
 
 ### 视频提取封面
 
 ```
+// 推荐
 ffmpeg -i input-1.mp4 -map 0:v -map -0:V -c copy output-1.png
 ```
 
-备注：
-
 > 如果报错信息是：Output file #0 does not contain any stream，说明视频未附有封面。
 >
-> 在文件浏览器看到的封面，只是解码器读到的关键帧缩略图，提取封面就是提取那一帧。
+> 没封面的视频，在文件浏览器看到的，只是解码器读到的关键帧缩略图。
 
 ---
 
@@ -162,25 +159,26 @@ ffmpeg -i input-1.mp4 -map 0:v -map -0:V -c copy output-1.png
 
 ---
 
-### 视频硬加字幕
+### 视频加硬字幕
 
 ```
+// 推荐
 ffmpeg -i input-1.mp4 -vf subtitles=input-1.ass -c:a copy output-1.mp4
 ```
 
-备注：
-
 > 直接复制音频可以防止音频被压缩。
 
-### 视频软加字幕
+### 视频加软字幕
 
 ```
+// 推荐
 ffmpeg -i input-1.mp4 -i input-1.ass -c copy -c:s mov_text output-1.mp4
 ```
 
 ### 视频加封面
 
 ```
+// 推荐
 ffmpeg -i input-1.mp4 -i input-1.png -map 0 -map 1 -c copy -c:v:1 png -disposition:v:1 attached_pic output-1.mp4
 ```
 
@@ -261,6 +259,7 @@ ffmpeg -i input-1.vob -vcodec libx265 output-8.mp4
 ### 无损合并 mp4
 
 ```
+// 推荐（数量少的话）
 (echo file 'input-1.mp4' & echo file 'input-2.mp4')>input-1.txt
 ffmpeg -safe 0 -f concat -i input-1.txt -c copy output-2.mp4
 ```
@@ -287,8 +286,36 @@ ffmpeg -f concat -safe 0 -i list.txt -c copy -y output.mp4
 ### 音频和图片合并，转成视频
 
 ```
+// 推荐
 ffmpeg -loop 1 -i input-1.jpg -i input-1.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output-1.mp4
 ```
+
+---
+
+## FFmpeg 使用实例——图片压缩
+
+---
+
+### 图片转码压缩
+
+```
+// 推荐
+ffmpeg -i input.png output.jpeg
+```
+
+```
+ffmpeg -i input.png output.webp
+```
+
+### 图片压缩
+
+```
+// 推荐
+ffmpeg -i input.png -vf palettegen=max_colors=256:stats_mode=single -y tmp.png
+ffmpeg -i input.png -i tmp.png -lavfi "[0][1:v] paletteuse" -pix_fmt pal8 -y output.png
+```
+
+###
 
 ---
 
@@ -300,6 +327,8 @@ ffmpeg -loop 1 -i input-1.jpg -i input-1.mp3 -c:v libx264 -c:a aac -b:a 330k -vf
 - [FFmpeg 官方英文文档](https://ffmpeg.org/ffmpeg.html)
 - [FFmpeg 命令详解](https://www.cnblogs.com/vicowong/archive/2011/03/08/1977088.html)
 - [ffmpeg - 把光盘转换成 MP4](https://it.ismy.fun/2019/05/16/convert-vob-to-mp4-by-ffmpeg/)
+- [使用FFMPEG 压缩png图片 与tinypng压缩结果对比](https://www.cnblogs.com/toumingbai/p/8298289.html)
+- []()
 - []()
 - []()
 
