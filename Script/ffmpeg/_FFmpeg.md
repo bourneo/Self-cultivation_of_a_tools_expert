@@ -300,11 +300,16 @@ ffmpeg -loop 1 -i input-1.jpg -i input-1.mp3 -c:v libx264 -c:a aac -b:a 330k -vf
 
 ```
 // 推荐
+ffmpeg -i input.png output.jpg
 ffmpeg -i input.png output.jpeg
 ```
 
 ```
 ffmpeg -i input.png output.webp
+```
+
+```
+ffmpeg -i input.png output.bmp
 ```
 
 ### 图片压缩
