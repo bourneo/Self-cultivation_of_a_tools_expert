@@ -6,6 +6,10 @@
 
 ---
 
+### 简介
+
+FFmpeg 中的 “FF” 指的是 “Fast Forward”，“mpeg” 则是 “Moving Picture Experts Group”。
+
 ### 命令格式
 
 ```
@@ -25,7 +29,7 @@ ffmpeg {全局参数} {输入文件参数} -i {输入文件} {输出文件参数
 | -b:v | 设置输出视频的比特率 | bit |
 | -b:a | 设置输出音频的比特率 | bit |
 | -ss | 设置开始时间 |  |
-| -t | 设置持续时间 |  |
+| -t | 设置持续时间 | 单位为秒 |
 | -to | 设置结束时间 |  |
 | -vf | 创建和设置过滤图，并用它来过滤流 |  |
 | -vf scale= | 设置输出视频的宽度和高度 |  |
@@ -288,6 +292,17 @@ ffmpeg -f concat -safe 0 -i list.txt -c copy -y output.mp4
 ```
 // 推荐
 ffmpeg -loop 1 -i input-1.jpg -i input-1.mp3 -c:v libx264 -c:a aac -b:a 330k -vf scale=1080:1080 -shortest output-1.mp4
+```
+
+```
+// 如果是无损音频格式，例如 flac，可以封装进 mkv 里
+// 同样的画质，libx265 压制的视频体积更小，但对机器性能要高点，介意的可以选 libx264
+ffmpeg -loop 1 -i hr-1.png -i Beyond.flac -c:v libx265 -c:a copy -shortest output.mkv
+```
+
+```
+// 图片转成不带视音频的视频
+ffmpeg -loop 1 -i hr-1.png -c:v libx265 -t 292 output2.mkv
 ```
 
 ---
